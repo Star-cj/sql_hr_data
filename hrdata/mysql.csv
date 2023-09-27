@@ -1,0 +1,1001 @@
+ID,Marital_Status,Gender,Income,Children,Education,Occupation,Home_Owner,Cars,Commute_Distance,Region,Age,Age_bracket,Purchased_Bike
+12496,Married,Female,40000.00,1,Bachelors,Skilled Manual,Yes,0,0-1 Miles,Europe,42,Mid Youth,No
+24107,Married,Male,30000.00,3,Partial College,Clerical,Yes,1,0-1 Miles,Europe,43,Mid Youth,No
+14177,Married,Male,80000.00,5,Partial College,Professional,No,2,2-5 Miles,Europe,60,Elder,No
+24381,Single,Male,70000.00,0,Bachelors,Professional,Yes,1,5-10 Miles,Pacific,41,Mid Youth,Yes
+25597,Single,Male,30000.00,0,Bachelors,Clerical,No,0,0-1 Miles,Europe,36,Mid Youth,Yes
+13507,Married,Female,10000.00,2,Partial College,Manual,Yes,0,1-2 Miles,Europe,50,Elder,No
+27974,Single,Male,160000.00,2,High School,Management,Yes,4,0-1 Miles,Pacific,33,Youth,Yes
+19364,Married,Male,40000.00,1,Bachelors,Skilled Manual,Yes,0,0-1 Miles,Europe,43,Mid Youth,Yes
+22155,Married,Male,20000.00,2,Partial High School,Clerical,Yes,2,5-10 Miles,Pacific,58,Elder,No
+19280,Married,Male,120000.00,2,Partial College,Manual,Yes,1,0-1 Miles,Europe,40,Mid Youth,Yes
+22173,Married,Female,30000.00,3,High School,Skilled Manual,No,2,1-2 Miles,Pacific,54,Elder,Yes
+12697,Single,Female,90000.00,0,Bachelors,Professional,No,4,10+ Miles,Pacific,36,Mid Youth,No
+11434,Married,Male,170000.00,5,Partial College,Professional,Yes,0,0-1 Miles,Europe,55,Elder,No
+25323,Married,Male,40000.00,2,Partial College,Clerical,Yes,1,1-2 Miles,Europe,35,Youth,Yes
+23542,Single,Male,60000.00,1,Partial College,Skilled Manual,No,1,0-1 Miles,Pacific,45,Mid Youth,Yes
+20870,Single,Female,10000.00,2,High School,Manual,Yes,1,0-1 Miles,Europe,38,Mid Youth,Yes
+23316,Single,Male,30000.00,3,Partial College,Clerical,No,2,1-2 Miles,Pacific,59,Elder,Yes
+12610,Married,Female,30000.00,1,Bachelors,Clerical,Yes,0,0-1 Miles,Europe,47,Elder,No
+27183,Single,Male,40000.00,2,Partial College,Clerical,Yes,1,1-2 Miles,Europe,35,Youth,Yes
+25940,Single,Male,20000.00,2,Partial High School,Clerical,Yes,2,5-10 Miles,Pacific,55,Elder,Yes
+25598,Married,Female,40000.00,0,Graduate Degree,Clerical,Yes,0,0-1 Miles,Europe,36,Mid Youth,Yes
+21564,Single,Female,80000.00,0,Bachelors,Professional,Yes,4,10+ Miles,Pacific,35,Youth,No
+19193,Single,Male,40000.00,2,Partial College,Clerical,Yes,0,1-2 Miles,Europe,35,Youth,Yes
+26412,Married,Female,80000.00,5,High School,Management,No,3,5-10 Miles,Europe,56,Elder,No
+27184,Single,Male,40000.00,2,Partial College,Clerical,No,1,0-1 Miles,Europe,34,Youth,No
+12590,Single,Male,30000.00,1,Bachelors,Clerical,Yes,0,0-1 Miles,Europe,63,Old Age,No
+17841,Single,Male,30000.00,0,Partial College,Clerical,No,1,0-1 Miles,Europe,29,Youth,Yes
+18283,Single,Female,100000.00,0,Bachelors,Professional,No,1,5-10 Miles,Pacific,40,Mid Youth,No
+18299,Married,Male,70000.00,5,Partial College,Skilled Manual,Yes,2,5-10 Miles,Pacific,44,Mid Youth,No
+16466,Single,Female,20000.00,0,Partial High School,Manual,No,2,0-1 Miles,Europe,32,Youth,Yes
+19273,Married,Female,20000.00,2,Partial College,Manual,Yes,0,0-1 Miles,Europe,63,Old Age,No
+22400,Married,Male,10000.00,0,Partial College,Manual,No,1,0-1 Miles,Pacific,26,Youth,Yes
+20942,Single,Female,20000.00,0,High School,Manual,No,1,5-10 Miles,Europe,31,Youth,No
+18484,Single,Male,80000.00,2,High School,Skilled Manual,No,2,1-2 Miles,Pacific,50,Elder,Yes
+12291,Single,Male,90000.00,5,Partial College,Professional,No,2,2-5 Miles,Europe,62,Old Age,Yes
+28380,Single,Female,10000.00,5,Partial High School,Manual,No,2,0-1 Miles,Europe,41,Mid Youth,No
+17891,Married,Female,10000.00,2,Partial College,Manual,Yes,1,0-1 Miles,Europe,50,Elder,Yes
+27832,Single,Female,30000.00,0,Partial College,Clerical,No,1,2-5 Miles,Europe,30,Youth,No
+26863,Single,Male,20000.00,0,High School,Manual,No,1,2-5 Miles,Europe,28,Youth,No
+16259,Single,Female,10000.00,4,Partial High School,Manual,Yes,2,0-1 Miles,Europe,40,Mid Youth,Yes
+27803,Single,Female,30000.00,2,Partial College,Clerical,No,0,0-1 Miles,Europe,43,Mid Youth,No
+14347,Single,Female,40000.00,2,Bachelors,Management,Yes,2,5-10 Miles,Pacific,65,Old Age,Yes
+17703,Married,Female,10000.00,1,Graduate Degree,Manual,Yes,0,0-1 Miles,Europe,40,Mid Youth,No
+17185,Married,Female,170000.00,4,Partial College,Professional,No,3,5-10 Miles,Europe,48,Elder,Yes
+29380,Married,Female,20000.00,3,High School,Manual,Yes,0,0-1 Miles,Europe,41,Mid Youth,Yes
+23986,Married,Female,20000.00,1,Bachelors,Clerical,Yes,0,0-1 Miles,Europe,66,Old Age,Yes
+24466,Married,Female,60000.00,1,Partial College,Skilled Manual,Yes,1,5-10 Miles,Pacific,46,Elder,Yes
+29097,Single,Female,40000.00,2,Partial College,Skilled Manual,Yes,2,5-10 Miles,Pacific,52,Elder,Yes
+19487,Married,Male,30000.00,2,Partial College,Clerical,No,2,0-1 Miles,Europe,42,Mid Youth,No
+14939,Single,Male,40000.00,0,Bachelors,Clerical,Yes,0,0-1 Miles,Europe,39,Mid Youth,Yes
+13826,Single,Female,30000.00,0,Partial College,Clerical,No,1,0-1 Miles,Europe,28,Youth,No
+20619,Single,Male,80000.00,0,Bachelors,Professional,No,4,10+ Miles,Pacific,35,Youth,No
+12558,Married,Female,20000.00,1,Bachelors,Clerical,Yes,0,0-1 Miles,Europe,65,Old Age,No
+24871,Single,Female,90000.00,4,High School,Management,No,3,5-10 Miles,Europe,56,Elder,No
+17319,Single,Female,70000.00,0,Bachelors,Professional,No,1,5-10 Miles,Pacific,42,Mid Youth,No
+28906,Married,Male,80000.00,4,High School,Professional,Yes,2,10+ Miles,Europe,54,Elder,No
+12808,Married,Male,40000.00,0,Bachelors,Clerical,Yes,0,0-1 Miles,Europe,38,Mid Youth,Yes
+20567,Married,Male,130000.00,4,Partial College,Professional,No,4,5-10 Miles,Europe,61,Old Age,Yes
+25502,Married,Female,40000.00,1,Bachelors,Skilled Manual,Yes,0,0-1 Miles,Europe,43,Mid Youth,Yes
+15580,Married,Male,60000.00,2,Bachelors,Professional,Yes,1,2-5 Miles,Pacific,38,Mid Youth,Yes
+24185,Single,Female,10000.00,1,High School,Manual,No,1,1-2 Miles,Europe,45,Mid Youth,No
+19291,Single,Female,10000.00,2,High School,Manual,Yes,0,0-1 Miles,Europe,35,Youth,No
+16713,Married,Male,40000.00,2,Bachelors,Management,Yes,1,0-1 Miles,Pacific,52,Elder,Yes
+16185,Single,Male,60000.00,4,Bachelors,Professional,Yes,3,10+ Miles,Pacific,41,Mid Youth,No
+14927,Married,Female,30000.00,1,Bachelors,Clerical,Yes,0,0-1 Miles,Europe,37,Mid Youth,Yes
+29337,Single,Male,30000.00,2,Partial College,Clerical,Yes,2,5-10 Miles,Pacific,68,Old Age,No
+29355,Married,Female,40000.00,0,Graduate Degree,Clerical,Yes,0,0-1 Miles,Europe,37,Mid Youth,Yes
+25303,Single,Male,30000.00,0,High School,Manual,Yes,1,2-5 Miles,Europe,33,Youth,Yes
+14813,Single,Female,20000.00,4,High School,Manual,Yes,1,0-1 Miles,Europe,43,Mid Youth,Yes
+16438,Married,Female,10000.00,0,Partial High School,Manual,No,2,0-1 Miles,Europe,30,Youth,No
+14238,Married,Male,120000.00,0,Partial High School,Professional,Yes,4,10+ Miles,Pacific,36,Mid Youth,Yes
+16200,Single,Female,10000.00,0,Partial High School,Manual,No,2,0-1 Miles,Europe,35,Youth,No
+24857,Married,Female,130000.00,3,High School,Professional,Yes,4,0-1 Miles,Europe,52,Elder,No
+26956,Single,Female,20000.00,0,Partial College,Manual,No,1,2-5 Miles,Europe,36,Mid Youth,Yes
+14517,Married,Female,20000.00,3,High School,Skilled Manual,No,2,1-2 Miles,Pacific,62,Old Age,No
+12678,Single,Female,130000.00,4,High School,Management,Yes,4,0-1 Miles,Pacific,31,Youth,No
+16188,Single,Female,20000.00,0,Partial High School,Manual,No,2,1-2 Miles,Europe,26,Youth,No
+27969,Married,Male,80000.00,0,Bachelors,Professional,Yes,2,10+ Miles,Pacific,29,Youth,Yes
+15752,Married,Male,80000.00,2,High School,Skilled Manual,No,2,1-2 Miles,Pacific,50,Elder,Yes
+27745,Single,Male,40000.00,2,Bachelors,Management,Yes,2,5-10 Miles,Pacific,63,Old Age,Yes
+20828,Married,Female,30000.00,4,Graduate Degree,Clerical,Yes,0,0-1 Miles,Europe,45,Mid Youth,Yes
+19461,Single,Female,10000.00,4,Partial High School,Manual,Yes,2,0-1 Miles,Europe,40,Mid Youth,No
+26941,Married,Male,30000.00,0,Bachelors,Clerical,Yes,0,0-1 Miles,Europe,47,Elder,Yes
+28412,Single,Male,20000.00,0,High School,Manual,No,1,2-5 Miles,Europe,29,Youth,No
+24485,Single,Male,40000.00,2,Bachelors,Management,No,1,5-10 Miles,Pacific,52,Elder,Yes
+16514,Single,Male,10000.00,0,Partial College,Manual,Yes,1,1-2 Miles,Pacific,26,Youth,Yes
+17191,Single,Male,130000.00,3,Partial College,Professional,No,3,0-1 Miles,Europe,51,Elder,Yes
+19608,Married,Male,80000.00,5,Bachelors,Professional,Yes,4,1-2 Miles,Pacific,40,Mid Youth,No
+24119,Single,Male,30000.00,0,Partial College,Clerical,No,1,2-5 Miles,Europe,29,Youth,No
+25458,Married,Male,20000.00,1,High School,Manual,No,1,1-2 Miles,Europe,40,Mid Youth,Yes
+26886,Single,Female,30000.00,0,Partial College,Clerical,No,1,0-1 Miles,Europe,29,Youth,Yes
+28436,Single,Male,30000.00,0,Partial College,Clerical,No,1,0-1 Miles,Europe,30,Youth,Yes
+19562,Single,Female,60000.00,2,Bachelors,Professional,Yes,1,2-5 Miles,Pacific,37,Mid Youth,Yes
+15608,Single,Female,30000.00,0,Partial College,Clerical,No,1,2-5 Miles,Europe,33,Youth,No
+16487,Single,Female,30000.00,3,High School,Skilled Manual,Yes,2,5-10 Miles,Pacific,55,Elder,No
+17197,Single,Female,90000.00,5,Partial College,Professional,Yes,2,10+ Miles,Europe,62,Old Age,No
+12507,Married,Male,30000.00,1,Partial College,Clerical,Yes,1,0-1 Miles,Europe,43,Mid Youth,No
+23940,Married,Male,40000.00,1,Bachelors,Skilled Manual,Yes,1,0-1 Miles,Europe,44,Mid Youth,Yes
+19441,Married,Male,40000.00,0,Graduate Degree,Clerical,Yes,0,0-1 Miles,Europe,25,Youth,Yes
+26852,Married,Female,20000.00,3,High School,Manual,Yes,2,0-1 Miles,Europe,43,Mid Youth,No
+12274,Single,Male,10000.00,2,High School,Manual,Yes,0,0-1 Miles,Europe,35,Youth,No
+20236,Single,Male,60000.00,3,Bachelors,Professional,No,2,0-1 Miles,Pacific,43,Mid Youth,Yes
+24149,Married,Male,10000.00,2,Partial College,Manual,Yes,0,1-2 Miles,Europe,49,Elder,No
+26139,Single,Male,60000.00,1,Partial College,Skilled Manual,Yes,1,5-10 Miles,Pacific,45,Mid Youth,No
+18491,Single,Female,70000.00,2,High School,Professional,Yes,2,5-10 Miles,Pacific,49,Elder,Yes
+22707,Single,Female,30000.00,0,Partial College,Clerical,No,1,2-5 Miles,Europe,30,Youth,No
+20430,Married,Male,70000.00,2,Partial College,Skilled Manual,Yes,2,5-10 Miles,Pacific,52,Elder,Yes
+27494,Single,Female,40000.00,2,Partial College,Skilled Manual,No,2,1-2 Miles,Pacific,53,Elder,Yes
+26829,Married,Female,40000.00,0,Bachelors,Clerical,Yes,0,0-1 Miles,Europe,38,Mid Youth,Yes
+28395,Single,Male,40000.00,0,Bachelors,Professional,No,0,0-1 Miles,Europe,39,Mid Youth,Yes
+21006,Single,Female,30000.00,1,Partial College,Manual,No,0,0-1 Miles,Europe,46,Elder,Yes
+14682,Single,Female,70000.00,0,Bachelors,Professional,No,1,5-10 Miles,Pacific,38,Mid Youth,No
+17650,Single,Female,40000.00,2,Partial College,Clerical,Yes,2,1-2 Miles,Europe,35,Youth,No
+29191,Single,Female,130000.00,1,Graduate Degree,Management,No,1,0-1 Miles,Pacific,36,Mid Youth,Yes
+15030,Married,Male,20000.00,0,Bachelors,Clerical,Yes,0,0-1 Miles,Pacific,26,Youth,Yes
+24140,Single,Male,10000.00,0,Graduate Degree,Manual,No,0,0-1 Miles,Europe,30,Youth,Yes
+22496,Married,Female,30000.00,1,Bachelors,Skilled Manual,Yes,2,0-1 Miles,Europe,42,Mid Youth,No
+24065,Single,Female,20000.00,0,High School,Manual,Yes,0,0-1 Miles,Europe,40,Mid Youth,Yes
+19914,Married,Male,80000.00,5,Bachelors,Management,Yes,2,2-5 Miles,Europe,62,Old Age,No
+12871,Single,Female,30000.00,0,Partial College,Clerical,No,1,2-5 Miles,Europe,29,Youth,No
+22988,Married,Female,40000.00,2,Bachelors,Management,Yes,2,5-10 Miles,Pacific,66,Old Age,Yes
+15922,Married,Male,150000.00,2,High School,Professional,Yes,4,0-1 Miles,Europe,48,Elder,No
+12344,Single,Female,80000.00,0,Bachelors,Professional,No,3,10+ Miles,Pacific,31,Youth,No
+23627,Single,Female,100000.00,3,Partial College,Management,No,4,5-10 Miles,Europe,56,Elder,No
+27775,Single,Female,40000.00,0,Bachelors,Clerical,No,0,0-1 Miles,Europe,38,Mid Youth,Yes
+29301,Married,Male,80000.00,5,Bachelors,Professional,Yes,4,1-2 Miles,Pacific,40,Mid Youth,No
+12716,Single,Male,30000.00,0,Partial College,Clerical,Yes,1,2-5 Miles,Europe,32,Youth,No
+12472,Married,Male,30000.00,1,Bachelors,Clerical,Yes,1,2-5 Miles,Europe,39,Mid Youth,No
+20970,Single,Male,10000.00,2,Partial College,Manual,Yes,1,0-1 Miles,Europe,52,Elder,Yes
+26818,Single,Male,10000.00,3,High School,Manual,Yes,1,0-1 Miles,Europe,39,Mid Youth,Yes
+12993,Married,Male,60000.00,2,Bachelors,Professional,Yes,1,2-5 Miles,Pacific,37,Mid Youth,No
+14192,Married,Male,90000.00,4,High School,Management,Yes,3,5-10 Miles,Europe,56,Elder,Yes
+19477,Married,Male,40000.00,0,Bachelors,Professional,Yes,0,0-1 Miles,Europe,40,Mid Youth,Yes
+26796,Single,Male,40000.00,2,Bachelors,Management,Yes,2,5-10 Miles,Pacific,65,Old Age,Yes
+21094,Single,Female,30000.00,2,Partial College,Clerical,Yes,2,0-1 Miles,Europe,42,Mid Youth,No
+12234,Married,Male,10000.00,2,Partial College,Manual,Yes,1,2-5 Miles,Europe,52,Elder,No
+28683,Single,Female,10000.00,1,High School,Manual,No,1,5-10 Miles,Europe,35,Youth,Yes
+17994,Single,Male,20000.00,2,High School,Manual,Yes,2,0-1 Miles,Europe,42,Mid Youth,No
+24273,Married,Female,20000.00,2,Partial High School,Clerical,Yes,2,5-10 Miles,Pacific,55,Elder,Yes
+26547,Single,Female,30000.00,2,Partial College,Clerical,No,2,5-10 Miles,Pacific,60,Elder,Yes
+22500,Single,Male,40000.00,0,Bachelors,Professional,No,0,0-1 Miles,Europe,40,Mid Youth,Yes
+23993,Single,Female,10000.00,0,Partial College,Manual,No,1,0-1 Miles,Pacific,26,Youth,Yes
+14832,Married,Male,40000.00,1,Bachelors,Skilled Manual,Yes,0,0-1 Miles,Europe,42,Mid Youth,Yes
+16614,Married,Female,80000.00,0,Bachelors,Professional,Yes,3,10+ Miles,Pacific,32,Youth,No
+20877,Single,Male,30000.00,1,Bachelors,Clerical,Yes,0,1-2 Miles,Europe,37,Mid Youth,Yes
+20729,Married,Female,40000.00,2,Partial College,Clerical,No,1,0-1 Miles,Europe,34,Youth,No
+22464,Married,Male,40000.00,0,Graduate Degree,Clerical,Yes,0,0-1 Miles,Europe,37,Mid Youth,Yes
+19475,Married,Female,40000.00,0,Bachelors,Professional,No,0,0-1 Miles,Europe,40,Mid Youth,Yes
+19675,Married,Male,20000.00,4,High School,Skilled Manual,Yes,2,5-10 Miles,Pacific,60,Elder,No
+12728,Single,Male,30000.00,0,Partial College,Clerical,No,1,1-2 Miles,Europe,27,Youth,No
+26154,Married,Male,60000.00,1,Partial College,Skilled Manual,Yes,1,5-10 Miles,Pacific,43,Mid Youth,Yes
+29117,Single,Male,100000.00,1,Bachelors,Management,No,3,0-1 Miles,Pacific,48,Elder,No
+17845,Single,Female,20000.00,0,Partial High School,Manual,No,2,1-2 Miles,Europe,32,Youth,No
+25058,Married,Male,100000.00,1,Bachelors,Management,Yes,3,2-5 Miles,Pacific,47,Elder,No
+23426,Single,Male,80000.00,5,Graduate Degree,Management,Yes,3,0-1 Miles,Pacific,40,Mid Youth,No
+14798,Single,Female,10000.00,4,Partial High School,Manual,Yes,2,0-1 Miles,Europe,41,Mid Youth,Yes
+12664,Married,Female,130000.00,5,Partial College,Professional,Yes,4,0-1 Miles,Europe,59,Elder,No
+23979,Single,Male,10000.00,2,Partial College,Manual,No,0,0-1 Miles,Europe,50,Elder,No
+25605,Single,Female,20000.00,2,Partial College,Manual,No,1,0-1 Miles,Europe,54,Elder,Yes
+20797,Married,Female,10000.00,1,Bachelors,Manual,Yes,0,0-1 Miles,Europe,48,Elder,No
+21980,Single,Female,60000.00,1,Bachelors,Professional,Yes,1,5-10 Miles,Pacific,44,Mid Youth,Yes
+25460,Married,Female,20000.00,2,High School,Manual,Yes,0,0-1 Miles,Europe,40,Mid Youth,Yes
+29181,Single,Female,60000.00,2,Bachelors,Professional,No,1,0-1 Miles,Pacific,38,Mid Youth,Yes
+24279,Single,Male,40000.00,2,Partial College,Skilled Manual,No,2,1-2 Miles,Pacific,52,Elder,No
+22402,Married,Male,10000.00,0,Partial College,Manual,Yes,1,2-5 Miles,Pacific,25,Youth,Yes
+15465,Married,Female,10000.00,0,Partial College,Manual,No,1,0-1 Miles,Pacific,25,Youth,No
+26757,Single,Male,90000.00,1,Bachelors,Professional,Yes,1,2-5 Miles,Pacific,47,Elder,Yes
+14233,Single,Male,100000.00,0,High School,Management,Yes,3,10+ Miles,Pacific,35,Youth,No
+14058,Single,Male,70000.00,0,Bachelors,Professional,No,1,5-10 Miles,Pacific,41,Mid Youth,Yes
+12273,Married,Male,30000.00,1,Bachelors,Clerical,Yes,0,0-1 Miles,Europe,47,Elder,No
+17203,Married,Female,130000.00,4,Partial College,Professional,Yes,4,5-10 Miles,Europe,61,Old Age,Yes
+18144,Married,Female,80000.00,5,Bachelors,Management,Yes,2,2-5 Miles,Europe,61,Old Age,No
+23963,Married,Male,10000.00,0,Partial High School,Manual,No,2,0-1 Miles,Europe,33,Youth,No
+17907,Married,Female,10000.00,0,Partial College,Manual,Yes,1,2-5 Miles,Pacific,27,Youth,No
+19442,Single,Male,50000.00,0,Graduate Degree,Skilled Manual,Yes,0,0-1 Miles,Europe,37,Mid Youth,Yes
+17504,Single,Female,80000.00,2,Partial College,Skilled Manual,Yes,2,5-10 Miles,Pacific,52,Elder,Yes
+12253,Single,Female,20000.00,0,Partial College,Manual,Yes,0,0-1 Miles,Pacific,29,Youth,Yes
+27304,Single,Female,110000.00,2,Partial College,Professional,No,3,5-10 Miles,Europe,48,Elder,No
+14191,Married,Male,160000.00,4,Partial College,Professional,No,2,10+ Miles,Europe,55,Elder,Yes
+12212,Married,Female,10000.00,0,Graduate Degree,Manual,Yes,0,0-1 Miles,Europe,37,Mid Youth,Yes
+25529,Single,Male,10000.00,1,Graduate Degree,Manual,Yes,0,0-1 Miles,Europe,44,Mid Youth,No
+22170,Married,Female,30000.00,3,Partial College,Clerical,No,2,1-2 Miles,Pacific,55,Elder,Yes
+19445,Married,Female,10000.00,2,High School,Manual,No,1,0-1 Miles,Europe,38,Mid Youth,No
+15265,Single,Male,40000.00,2,Bachelors,Management,Yes,2,5-10 Miles,Pacific,66,Old Age,Yes
+28918,Married,Female,130000.00,4,High School,Management,No,4,10+ Miles,Europe,58,Elder,No
+15799,Married,Female,90000.00,1,Bachelors,Professional,Yes,1,2-5 Miles,Pacific,47,Elder,Yes
+11047,Married,Female,30000.00,3,High School,Skilled Manual,No,2,1-2 Miles,Pacific,56,Elder,Yes
+18151,Single,Male,80000.00,5,Partial College,Professional,No,2,10+ Miles,Europe,59,Elder,No
+20606,Married,Female,70000.00,0,Bachelors,Professional,Yes,4,10+ Miles,Pacific,32,Youth,Yes
+19482,Married,Male,30000.00,1,Partial College,Clerical,Yes,1,0-1 Miles,Europe,44,Mid Youth,Yes
+16489,Married,Male,30000.00,3,High School,Skilled Manual,Yes,2,5-10 Miles,Pacific,55,Elder,No
+26944,Single,Male,90000.00,2,High School,Manual,Yes,0,0-1 Miles,Europe,36,Mid Youth,Yes
+15682,Single,Female,80000.00,5,Bachelors,Management,Yes,2,10+ Miles,Europe,62,Old Age,No
+26032,Married,Female,70000.00,5,Bachelors,Professional,Yes,4,10+ Miles,Pacific,41,Mid Youth,No
+17843,Single,Female,10000.00,0,Partial High School,Manual,No,2,0-1 Miles,Europe,32,Youth,No
+25559,Single,Male,20000.00,0,Bachelors,Clerical,Yes,0,0-1 Miles,Pacific,25,Youth,Yes
+16209,Single,Female,50000.00,0,Graduate Degree,Skilled Manual,Yes,0,1-2 Miles,Europe,36,Mid Youth,No
+11147,Married,Male,60000.00,2,Graduate Degree,Management,Yes,1,0-1 Miles,Pacific,67,Old Age,Yes
+15214,Single,Female,100000.00,0,Graduate Degree,Management,No,1,1-2 Miles,Pacific,39,Mid Youth,Yes
+11453,Single,Male,80000.00,0,Bachelors,Professional,No,3,10+ Miles,Pacific,33,Youth,Yes
+24584,Single,Male,60000.00,0,Bachelors,Professional,No,3,2-5 Miles,Pacific,31,Youth,No
+12585,Married,Male,10000.00,1,High School,Manual,Yes,0,2-5 Miles,Pacific,27,Youth,Yes
+18626,Single,Male,40000.00,2,Partial College,Clerical,Yes,0,1-2 Miles,Europe,33,Youth,Yes
+29298,Single,Female,60000.00,1,Partial College,Skilled Manual,Yes,1,5-10 Miles,Pacific,46,Elder,Yes
+24842,Single,Female,90000.00,3,High School,Professional,No,1,2-5 Miles,Europe,51,Elder,No
+15657,Married,Male,30000.00,3,Graduate Degree,Clerical,Yes,0,0-1 Miles,Europe,46,Elder,Yes
+11415,Single,Male,90000.00,5,Partial College,Professional,No,2,10+ Miles,Europe,62,Old Age,No
+28729,Single,Female,20000.00,0,Partial High School,Manual,Yes,2,1-2 Miles,Europe,26,Youth,Yes
+22633,Single,Female,40000.00,0,Graduate Degree,Clerical,Yes,0,0-1 Miles,Europe,37,Mid Youth,Yes
+25649,Single,Female,30000.00,3,Partial College,Clerical,Yes,0,0-1 Miles,Europe,42,Mid Youth,Yes
+14669,Married,Female,80000.00,4,Graduate Degree,Management,Yes,1,0-1 Miles,Pacific,36,Mid Youth,No
+19299,Married,Female,50000.00,0,Graduate Degree,Skilled Manual,Yes,0,0-1 Miles,Europe,36,Mid Youth,Yes
+20946,Single,Female,30000.00,0,Partial College,Clerical,No,1,2-5 Miles,Europe,30,Youth,No
+11451,Single,Male,70000.00,0,Bachelors,Professional,No,4,10+ Miles,Pacific,31,Youth,Yes
+25553,Married,Male,30000.00,1,Bachelors,Clerical,Yes,0,0-1 Miles,Europe,65,Old Age,Yes
+27951,Single,Male,80000.00,4,Partial College,Professional,No,2,2-5 Miles,Europe,54,Elder,Yes
+25026,Married,Male,20000.00,2,Partial High School,Clerical,Yes,3,5-10 Miles,Pacific,54,Elder,No
+13673,Single,Female,20000.00,0,Partial High School,Manual,No,2,0-1 Miles,Europe,25,Youth,No
+16043,Single,Male,10000.00,1,Bachelors,Manual,Yes,0,0-1 Miles,Europe,48,Elder,No
+22399,Single,Male,10000.00,0,Partial College,Manual,Yes,1,1-2 Miles,Pacific,26,Youth,Yes
+27696,Married,Male,60000.00,1,Bachelors,Professional,Yes,1,5-10 Miles,Pacific,43,Mid Youth,Yes
+25313,Single,Male,10000.00,0,Partial High School,Manual,No,2,1-2 Miles,Europe,35,Youth,No
+13813,Married,Female,30000.00,3,Partial College,Clerical,No,0,0-1 Miles,Europe,42,Mid Youth,No
+18711,Single,Female,70000.00,5,Bachelors,Professional,Yes,4,10+ Miles,Pacific,39,Mid Youth,No
+19650,Married,Female,30000.00,2,Partial College,Clerical,No,2,0-1 Miles,Pacific,67,Old Age,No
+14135,Married,Male,20000.00,1,Partial College,Manual,Yes,0,1-2 Miles,Europe,35,Youth,No
+12833,Single,Female,20000.00,3,High School,Manual,Yes,1,0-1 Miles,Europe,42,Mid Youth,Yes
+26849,Married,Male,10000.00,3,Partial High School,Manual,Yes,2,0-1 Miles,Europe,43,Mid Youth,No
+20962,Married,Female,20000.00,1,Graduate Degree,Clerical,Yes,0,0-1 Miles,Europe,45,Mid Youth,No
+28915,Single,Male,80000.00,5,High School,Management,Yes,3,10+ Miles,Europe,57,Elder,No
+22830,Married,Male,120000.00,4,Partial College,Management,Yes,3,10+ Miles,Europe,56,Elder,No
+14777,Married,Female,40000.00,0,Bachelors,Clerical,Yes,0,0-1 Miles,Europe,38,Mid Youth,Yes
+12591,Married,Female,30000.00,4,Graduate Degree,Clerical,Yes,0,0-1 Miles,Europe,45,Mid Youth,No
+24174,Married,Male,20000.00,0,Bachelors,Clerical,Yes,0,0-1 Miles,Pacific,27,Youth,Yes
+24611,Single,Male,90000.00,0,Bachelors,Professional,No,4,10+ Miles,Pacific,35,Youth,Yes
+11340,Married,Female,10000.00,1,Graduate Degree,Clerical,Yes,0,0-1 Miles,Europe,70,Old Age,Yes
+25693,Single,Female,30000.00,5,Graduate Degree,Clerical,Yes,0,0-1 Miles,Europe,44,Mid Youth,Yes
+25555,Married,Female,10000.00,0,Partial College,Manual,No,1,0-1 Miles,Pacific,26,Youth,Yes
+22006,Married,Male,70000.00,5,Partial College,Skilled Manual,Yes,3,5-10 Miles,Pacific,46,Elder,No
+20060,Single,Female,30000.00,0,High School,Manual,No,1,2-5 Miles,Europe,34,Youth,Yes
+17702,Married,Male,10000.00,1,Graduate Degree,Manual,Yes,0,0-1 Miles,Europe,37,Mid Youth,No
+12503,Single,Female,30000.00,3,Partial College,Clerical,Yes,2,0-1 Miles,Europe,27,Youth,No
+23908,Single,Male,30000.00,1,Bachelors,Clerical,No,1,0-1 Miles,Europe,39,Mid Youth,Yes
+22527,Single,Female,20000.00,0,High School,Manual,No,1,2-5 Miles,Europe,29,Youth,No
+19057,Married,Female,120000.00,3,Bachelors,Management,No,2,10+ Miles,Europe,52,Elder,Yes
+18494,Married,Male,110000.00,5,Bachelors,Management,Yes,4,2-5 Miles,Pacific,48,Elder,Yes
+11249,Married,Female,130000.00,3,Partial College,Professional,Yes,3,0-1 Miles,Europe,51,Elder,Yes
+21568,Married,Female,100000.00,0,High School,Management,Yes,4,10+ Miles,Pacific,34,Youth,Yes
+13981,Married,Female,10000.00,5,High School,Skilled Manual,No,3,1-2 Miles,Pacific,62,Old Age,No
+23432,Single,Male,70000.00,0,Bachelors,Professional,Yes,1,5-10 Miles,Pacific,37,Mid Youth,Yes
+22931,Married,Male,100000.00,5,Graduate Degree,Management,No,1,1-2 Miles,Pacific,78,Old Age,Yes
+18172,Married,Male,130000.00,4,High School,Professional,Yes,3,0-1 Miles,Europe,55,Elder,No
+12666,Single,Male,60000.00,0,Bachelors,Professional,No,4,2-5 Miles,Pacific,31,Youth,No
+20598,Married,Male,100000.00,3,Partial High School,Professional,Yes,0,10+ Miles,Europe,59,Elder,Yes
+21375,Single,Male,20000.00,2,Partial High School,Clerical,Yes,2,5-10 Miles,Pacific,57,Elder,No
+20839,Single,Female,30000.00,3,Graduate Degree,Clerical,Yes,0,0-1 Miles,Europe,47,Elder,Yes
+21738,Married,Male,20000.00,1,Graduate Degree,Clerical,Yes,0,0-1 Miles,Europe,43,Mid Youth,No
+14164,Single,Female,50000.00,0,Graduate Degree,Skilled Manual,Yes,0,0-1 Miles,Europe,36,Mid Youth,Yes
+14193,Single,Female,100000.00,3,Partial College,Management,Yes,4,10+ Miles,Europe,56,Elder,No
+12705,Married,Male,150000.00,0,Bachelors,Management,Yes,4,0-1 Miles,Pacific,37,Mid Youth,Yes
+22672,Single,Female,30000.00,2,Partial College,Clerical,Yes,0,0-1 Miles,Europe,43,Mid Youth,No
+26219,Married,Female,40000.00,1,Bachelors,Skilled Manual,Yes,1,1-2 Miles,Europe,33,Youth,Yes
+28468,Married,Female,10000.00,2,Partial College,Manual,Yes,0,1-2 Miles,Europe,51,Elder,No
+23419,Single,Female,70000.00,5,Bachelors,Professional,Yes,3,10+ Miles,Pacific,39,Mid Youth,No
+17964,Married,Male,40000.00,0,Graduate Degree,Clerical,Yes,0,0-1 Miles,Europe,37,Mid Youth,Yes
+20919,Single,Female,30000.00,2,Partial College,Clerical,Yes,2,0-1 Miles,Europe,42,Mid Youth,No
+20927,Single,Female,20000.00,5,High School,Manual,Yes,2,0-1 Miles,Europe,27,Youth,No
+13133,Single,Male,100000.00,5,Bachelors,Professional,Yes,1,5-10 Miles,Pacific,47,Elder,Yes
+19626,Married,Male,70000.00,5,Partial College,Skilled Manual,Yes,3,5-10 Miles,Pacific,45,Mid Youth,No
+21039,Single,Female,50000.00,0,Graduate Degree,Skilled Manual,No,0,0-1 Miles,Europe,37,Mid Youth,Yes
+12231,Single,Female,10000.00,2,Partial College,Manual,Yes,0,0-1 Miles,Europe,51,Elder,Yes
+25665,Single,Female,20000.00,0,High School,Manual,No,1,1-2 Miles,Europe,28,Youth,No
+24061,Married,Male,10000.00,4,Partial High School,Manual,Yes,1,0-1 Miles,Europe,40,Mid Youth,Yes
+26879,Single,Female,20000.00,0,High School,Manual,No,1,2-5 Miles,Europe,30,Youth,No
+12284,Married,Female,30000.00,0,Bachelors,Clerical,No,0,0-1 Miles,Europe,36,Mid Youth,Yes
+26654,Married,Female,90000.00,1,Graduate Degree,Management,Yes,0,0-1 Miles,Pacific,37,Mid Youth,Yes
+14545,Married,Female,10000.00,2,Partial College,Manual,Yes,0,1-2 Miles,Europe,49,Elder,No
+24201,Married,Female,10000.00,2,High School,Manual,Yes,0,0-1 Miles,Europe,37,Mid Youth,Yes
+20625,Married,Male,100000.00,0,High School,Management,Yes,3,10+ Miles,Pacific,35,Youth,Yes
+16390,Single,Male,30000.00,1,Bachelors,Clerical,No,0,0-1 Miles,Europe,38,Mid Youth,Yes
+14804,Single,Female,10000.00,3,Partial High School,Manual,Yes,2,0-1 Miles,Europe,43,Mid Youth,No
+12629,Single,Male,20000.00,1,Partial College,Manual,No,0,0-1 Miles,Europe,37,Mid Youth,No
+14696,Single,Male,10000.00,0,Partial High School,Manual,No,2,0-1 Miles,Europe,34,Youth,No
+22005,Married,Female,70000.00,5,Partial College,Skilled Manual,No,3,5-10 Miles,Pacific,46,Elder,No
+14544,Single,Male,10000.00,1,Partial College,Manual,Yes,0,0-1 Miles,Europe,49,Elder,No
+14312,Married,Female,60000.00,1,Partial College,Skilled Manual,Yes,1,5-10 Miles,Pacific,45,Mid Youth,No
+29120,Single,Female,100000.00,1,Bachelors,Management,Yes,4,2-5 Miles,Pacific,48,Elder,No
+24187,Single,Female,30000.00,3,Graduate Degree,Clerical,No,0,0-1 Miles,Europe,46,Elder,Yes
+15758,Married,Male,130000.00,0,Graduate Degree,Management,Yes,0,5-10 Miles,Pacific,48,Elder,No
+29094,Married,Male,30000.00,3,High School,Skilled Manual,Yes,2,5-10 Miles,Pacific,54,Elder,Yes
+28319,Single,Female,60000.00,1,Partial College,Skilled Manual,No,1,0-1 Miles,Pacific,46,Elder,Yes
+16406,Married,Male,40000.00,0,Bachelors,Clerical,No,0,0-1 Miles,Europe,38,Mid Youth,Yes
+20923,Married,Female,40000.00,1,Bachelors,Skilled Manual,Yes,0,0-1 Miles,Europe,42,Mid Youth,Yes
+11378,Single,Female,10000.00,1,High School,Manual,No,1,2-5 Miles,Europe,46,Elder,Yes
+20851,Single,Male,20000.00,0,Partial College,Manual,No,1,2-5 Miles,Europe,36,Mid Youth,Yes
+21557,Single,Female,110000.00,0,Partial College,Management,Yes,3,10+ Miles,Pacific,32,Youth,Yes
+26663,Single,Female,60000.00,2,Bachelors,Professional,No,1,0-1 Miles,Pacific,39,Mid Youth,Yes
+11896,Married,Male,100000.00,1,Graduate Degree,Management,Yes,0,2-5 Miles,Pacific,36,Mid Youth,Yes
+14189,Married,Female,90000.00,4,High School,Professional,No,2,2-5 Miles,Europe,54,Elder,Yes
+13136,Married,Female,30000.00,2,Partial College,Clerical,No,2,5-10 Miles,Pacific,69,Old Age,No
+25906,Single,Female,10000.00,5,High School,Skilled Manual,No,2,1-2 Miles,Pacific,62,Old Age,No
+17926,Single,Female,40000.00,0,Bachelors,Clerical,No,0,0-1 Miles,Pacific,28,Youth,Yes
+26928,Single,Male,30000.00,1,Bachelors,Clerical,Yes,0,0-1 Miles,Europe,62,Old Age,Yes
+20897,Married,Female,30000.00,1,Bachelors,Skilled Manual,Yes,2,0-1 Miles,Europe,40,Mid Youth,No
+28207,Married,Male,80000.00,4,Graduate Degree,Management,Yes,1,0-1 Miles,Pacific,36,Mid Youth,Yes
+25923,Single,Male,10000.00,2,Partial High School,Clerical,Yes,2,5-10 Miles,Pacific,58,Elder,No
+11000,Married,Male,90000.00,2,Bachelors,Professional,Yes,0,1-2 Miles,Pacific,40,Mid Youth,Yes
+20974,Married,Male,10000.00,2,Bachelors,Clerical,Yes,1,0-1 Miles,Europe,66,Old Age,No
+28758,Married,Male,40000.00,2,Partial College,Clerical,Yes,1,1-2 Miles,Europe,35,Youth,Yes
+11381,Married,Female,20000.00,2,Partial College,Manual,Yes,1,2-5 Miles,Europe,47,Elder,Yes
+17522,Married,Male,120000.00,4,Bachelors,Management,Yes,1,2-5 Miles,Pacific,47,Elder,No
+21207,Married,Male,60000.00,1,Partial College,Skilled Manual,Yes,1,5-10 Miles,Pacific,46,Elder,No
+28102,Married,Male,20000.00,4,High School,Skilled Manual,Yes,2,5-10 Miles,Pacific,58,Elder,Yes
+23105,Single,Male,40000.00,3,Partial High School,Clerical,No,2,5-10 Miles,Pacific,52,Elder,Yes
+18740,Married,Male,80000.00,5,Bachelors,Professional,No,1,0-1 Miles,Pacific,47,Elder,Yes
+21213,Single,Male,70000.00,0,Bachelors,Professional,No,1,5-10 Miles,Pacific,41,Mid Youth,No
+17352,Married,Male,50000.00,2,Graduate Degree,Management,Yes,1,5-10 Miles,Pacific,64,Old Age,Yes
+14154,Married,Male,30000.00,0,Bachelors,Clerical,Yes,0,0-1 Miles,Europe,35,Youth,Yes
+19066,Married,Male,130000.00,4,Partial College,Professional,No,3,10+ Miles,Europe,54,Elder,No
+11386,Married,Female,30000.00,3,Bachelors,Clerical,Yes,0,0-1 Miles,Europe,45,Mid Youth,No
+20228,Married,Male,100000.00,0,Graduate Degree,Management,Yes,0,2-5 Miles,Pacific,40,Mid Youth,Yes
+16675,Single,Female,160000.00,0,Graduate Degree,Management,No,3,0-1 Miles,Pacific,47,Elder,Yes
+16410,Single,Female,10000.00,4,Partial High School,Manual,Yes,2,0-1 Miles,Europe,41,Mid Youth,Yes
+27760,Single,Female,40000.00,0,Graduate Degree,Clerical,No,0,0-1 Miles,Europe,37,Mid Youth,Yes
+22930,Married,Male,90000.00,4,Bachelors,Professional,Yes,0,1-2 Miles,Pacific,38,Mid Youth,Yes
+23780,Single,Male,40000.00,2,Partial College,Clerical,No,2,0-1 Miles,Europe,36,Mid Youth,Yes
+20994,Married,Female,20000.00,0,Bachelors,Clerical,No,0,0-1 Miles,Pacific,26,Youth,Yes
+28379,Married,Male,30000.00,1,Bachelors,Skilled Manual,Yes,2,0-1 Miles,Europe,40,Mid Youth,No
+14865,Single,Male,40000.00,2,Partial College,Clerical,Yes,2,1-2 Miles,Europe,36,Mid Youth,No
+12663,Married,Female,90000.00,5,Partial High School,Skilled Manual,Yes,2,10+ Miles,Europe,59,Elder,No
+24898,Single,Female,80000.00,0,Bachelors,Professional,Yes,3,10+ Miles,Pacific,32,Youth,No
+19508,Married,Male,10000.00,0,Partial High School,Manual,No,2,0-1 Miles,Europe,30,Youth,No
+11489,Single,Female,20000.00,0,Partial High School,Manual,No,2,1-2 Miles,Europe,35,Youth,Yes
+18160,Married,Male,130000.00,3,High School,Professional,Yes,4,5-10 Miles,Europe,51,Elder,Yes
+25241,Married,Male,90000.00,2,Bachelors,Professional,Yes,1,5-10 Miles,Pacific,47,Elder,No
+24369,Married,Male,80000.00,5,Graduate Degree,Management,No,2,0-1 Miles,Pacific,39,Mid Youth,No
+27165,Single,Male,20000.00,0,Partial High School,Manual,No,2,0-1 Miles,Europe,34,Youth,No
+29424,Married,Male,10000.00,0,Partial High School,Manual,Yes,2,0-1 Miles,Europe,32,Youth,No
+15926,Single,Female,120000.00,3,High School,Professional,Yes,4,5-10 Miles,Europe,50,Elder,Yes
+14554,Married,Male,20000.00,1,Bachelors,Clerical,Yes,0,0-1 Miles,Europe,66,Old Age,No
+16468,Single,Male,30000.00,0,Partial College,Clerical,Yes,1,2-5 Miles,Europe,30,Youth,No
+19174,Single,Female,30000.00,0,High School,Manual,No,1,2-5 Miles,Europe,32,Youth,Yes
+19183,Single,Male,10000.00,0,Partial High School,Manual,Yes,2,1-2 Miles,Europe,35,Youth,No
+13683,Single,Female,30000.00,0,High School,Manual,No,1,2-5 Miles,Europe,32,Youth,No
+17848,Single,Male,30000.00,0,Partial College,Clerical,No,1,2-5 Miles,Europe,31,Youth,Yes
+17894,Married,Female,20000.00,1,Bachelors,Clerical,Yes,0,0-1 Miles,Europe,50,Elder,Yes
+25651,Married,Male,40000.00,1,Bachelors,Skilled Manual,No,0,0-1 Miles,Europe,43,Mid Youth,Yes
+22936,Single,Female,60000.00,1,Partial College,Skilled Manual,No,1,0-1 Miles,Pacific,45,Mid Youth,Yes
+23915,Married,Male,20000.00,2,High School,Manual,Yes,2,0-1 Miles,Europe,42,Mid Youth,No
+24121,Single,Female,30000.00,0,Partial College,Clerical,No,1,0-1 Miles,Europe,29,Youth,Yes
+27878,Single,Male,20000.00,0,Partial College,Manual,No,0,0-1 Miles,Pacific,28,Youth,Yes
+13572,Single,Male,10000.00,3,High School,Manual,Yes,0,0-1 Miles,Europe,37,Mid Youth,Yes
+27941,Married,Female,80000.00,4,Partial College,Professional,Yes,2,2-5 Miles,Europe,53,Elder,No
+26354,Single,Male,40000.00,0,Graduate Degree,Clerical,No,0,0-1 Miles,Europe,38,Mid Youth,Yes
+14785,Single,Male,30000.00,1,Bachelors,Clerical,No,1,1-2 Miles,Europe,39,Mid Youth,No
+17238,Single,Male,80000.00,0,Bachelors,Professional,Yes,3,10+ Miles,Pacific,32,Youth,No
+23608,Married,Female,150000.00,3,High School,Professional,Yes,3,0-1 Miles,Europe,51,Elder,Yes
+22538,Single,Female,10000.00,0,Partial High School,Manual,Yes,2,1-2 Miles,Europe,33,Youth,No
+12332,Married,Male,90000.00,4,High School,Management,Yes,3,5-10 Miles,Europe,58,Elder,Yes
+17230,Married,Male,80000.00,0,Bachelors,Professional,Yes,3,10+ Miles,Pacific,30,Youth,No
+13082,Single,Male,130000.00,0,Graduate Degree,Management,Yes,0,2-5 Miles,Pacific,48,Elder,Yes
+22518,Single,Female,30000.00,3,Partial College,Clerical,No,2,0-1 Miles,Europe,27,Youth,Yes
+13687,Married,Male,40000.00,1,Bachelors,Skilled Manual,Yes,1,0-1 Miles,Europe,33,Youth,Yes
+23571,Married,Female,40000.00,2,Bachelors,Management,Yes,2,0-1 Miles,Pacific,66,Old Age,Yes
+19305,Single,Female,10000.00,2,High School,Manual,Yes,1,0-1 Miles,Europe,38,Mid Youth,Yes
+22636,Single,Female,40000.00,0,Bachelors,Clerical,No,0,0-1 Miles,Europe,38,Mid Youth,Yes
+17310,Married,Male,60000.00,1,Partial College,Skilled Manual,Yes,1,0-1 Miles,Pacific,45,Mid Youth,Yes
+12133,Married,Female,130000.00,3,Partial College,Professional,Yes,3,5-10 Miles,Europe,50,Elder,Yes
+25918,Single,Female,30000.00,2,Partial College,Clerical,No,2,5-10 Miles,Pacific,60,Elder,Yes
+25752,Single,Female,20000.00,2,Partial College,Manual,No,1,0-1 Miles,Europe,53,Elder,Yes
+17324,Married,Female,100000.00,4,Bachelors,Professional,Yes,1,10+ Miles,Pacific,46,Elder,No
+22918,Single,Male,80000.00,5,Graduate Degree,Management,Yes,3,0-1 Miles,Pacific,50,Elder,No
+12510,Married,Male,40000.00,1,Bachelors,Skilled Manual,Yes,1,0-1 Miles,Europe,43,Mid Youth,Yes
+25512,Single,Male,20000.00,0,High School,Manual,No,1,2-5 Miles,Europe,30,Youth,No
+16179,Single,Female,80000.00,5,Bachelors,Professional,Yes,4,1-2 Miles,Pacific,38,Mid Youth,No
+15628,Married,Female,40000.00,1,Bachelors,Skilled Manual,Yes,1,0-1 Miles,Europe,89,Old Age,No
+20977,Married,Male,20000.00,1,Bachelors,Clerical,Yes,0,0-1 Miles,Europe,64,Old Age,Yes
+18140,Married,Male,130000.00,3,Partial College,Professional,No,3,5-10 Miles,Europe,51,Elder,Yes
+20417,Married,Male,30000.00,3,Partial College,Clerical,No,2,5-10 Miles,Pacific,56,Elder,No
+18267,Married,Male,60000.00,3,Bachelors,Professional,Yes,2,5-10 Miles,Pacific,43,Mid Youth,No
+13620,Single,Male,70000.00,0,Bachelors,Professional,No,3,10+ Miles,Pacific,30,Youth,Yes
+22974,Married,Female,30000.00,2,Partial College,Clerical,Yes,2,5-10 Miles,Pacific,69,Old Age,No
+13586,Married,Male,80000.00,4,Partial College,Professional,Yes,2,10+ Miles,Europe,53,Elder,No
+17978,Married,Male,40000.00,0,Graduate Degree,Clerical,Yes,0,0-1 Miles,Europe,37,Mid Youth,Yes
+12581,Single,Female,10000.00,0,Partial College,Manual,No,1,0-1 Miles,Pacific,28,Youth,Yes
+18018,Single,Male,30000.00,3,Partial College,Clerical,Yes,0,0-1 Miles,Europe,43,Mid Youth,No
+28957,Single,Female,120000.00,0,Partial High School,Professional,Yes,4,10+ Miles,Pacific,34,Youth,Yes
+13690,Single,Female,20000.00,0,Partial High School,Manual,No,2,1-2 Miles,Europe,34,Youth,Yes
+12568,Married,Female,30000.00,1,Bachelors,Clerical,Yes,0,0-1 Miles,Europe,64,Old Age,No
+13122,Married,Female,80000.00,0,Bachelors,Professional,Yes,1,1-2 Miles,Pacific,41,Mid Youth,Yes
+21184,Single,Male,70000.00,0,Bachelors,Professional,No,1,5-10 Miles,Pacific,38,Mid Youth,No
+26150,Single,Female,70000.00,0,Bachelors,Professional,No,1,0-1 Miles,Pacific,41,Mid Youth,Yes
+24151,Single,Male,20000.00,1,Bachelors,Clerical,No,0,0-1 Miles,Europe,51,Elder,No
+23962,Married,Female,10000.00,0,Partial High School,Manual,Yes,2,1-2 Miles,Europe,32,Youth,No
+17793,Married,Female,40000.00,0,Bachelors,Clerical,Yes,0,0-1 Miles,Europe,38,Mid Youth,Yes
+14926,Married,Male,30000.00,1,Bachelors,Clerical,Yes,0,0-1 Miles,Europe,38,Mid Youth,Yes
+16163,Single,Male,60000.00,2,Bachelors,Professional,Yes,1,2-5 Miles,Pacific,38,Mid Youth,Yes
+21365,Married,Female,10000.00,2,Partial High School,Clerical,Yes,2,5-10 Miles,Pacific,58,Elder,No
+27771,Single,Male,30000.00,1,Bachelors,Clerical,Yes,1,1-2 Miles,Europe,39,Mid Youth,Yes
+26167,Single,Female,40000.00,2,Bachelors,Management,No,1,5-10 Miles,Pacific,53,Elder,Yes
+25792,Single,Female,110000.00,3,Bachelors,Management,Yes,4,10+ Miles,Europe,53,Elder,No
+11555,Married,Female,40000.00,1,Bachelors,Clerical,Yes,0,0-1 Miles,Europe,80,Old Age,No
+22381,Married,Male,10000.00,1,Graduate Degree,Manual,Yes,0,0-1 Miles,Europe,44,Mid Youth,No
+17882,Married,Male,20000.00,1,Graduate Degree,Clerical,Yes,0,0-1 Miles,Europe,44,Mid Youth,No
+22174,Married,Male,30000.00,3,High School,Skilled Manual,Yes,2,5-10 Miles,Pacific,54,Elder,Yes
+22439,Married,Female,30000.00,0,Bachelors,Clerical,Yes,0,0-1 Miles,Europe,37,Mid Youth,Yes
+18012,Married,Female,40000.00,1,Bachelors,Skilled Manual,Yes,0,0-1 Miles,Europe,41,Mid Youth,No
+27582,Single,Female,90000.00,2,Bachelors,Professional,No,0,0-1 Miles,Pacific,36,Mid Youth,Yes
+12744,Single,Female,40000.00,2,Partial College,Clerical,Yes,0,0-1 Miles,Europe,33,Youth,No
+22821,Married,Female,130000.00,3,Partial College,Professional,Yes,4,0-1 Miles,Europe,52,Elder,No
+20171,Married,Female,20000.00,2,Partial College,Manual,Yes,1,0-1 Miles,Europe,46,Elder,Yes
+11116,Married,Male,70000.00,5,Partial College,Skilled Manual,Yes,2,5-10 Miles,Pacific,43,Mid Youth,No
+20053,Single,Male,40000.00,2,Partial College,Clerical,Yes,0,0-1 Miles,Europe,34,Youth,No
+25266,Single,Female,30000.00,2,Partial College,Clerical,No,2,5-10 Miles,Pacific,67,Old Age,No
+17960,Married,Female,40000.00,0,Graduate Degree,Clerical,Yes,0,0-1 Miles,Europe,35,Youth,Yes
+13961,Married,Female,80000.00,5,Graduate Degree,Management,Yes,3,0-1 Miles,Pacific,40,Mid Youth,No
+11897,Single,Male,60000.00,2,Bachelors,Professional,No,1,0-1 Miles,Pacific,37,Mid Youth,Yes
+11139,Single,Female,30000.00,2,Partial College,Clerical,No,2,5-10 Miles,Pacific,67,Old Age,No
+11576,Married,Male,30000.00,1,Bachelors,Skilled Manual,Yes,2,0-1 Miles,Europe,41,Mid Youth,Yes
+19255,Single,Male,10000.00,2,Partial College,Manual,Yes,1,0-1 Miles,Europe,51,Elder,Yes
+18153,Married,Female,100000.00,2,Bachelors,Management,Yes,4,10+ Miles,Europe,59,Elder,No
+14547,Married,Male,10000.00,2,Partial College,Manual,Yes,0,1-2 Miles,Europe,51,Elder,No
+24901,Single,Male,110000.00,0,Partial College,Management,No,3,10+ Miles,Pacific,32,Youth,Yes
+27169,Single,Male,30000.00,0,High School,Manual,Yes,1,2-5 Miles,Europe,34,Youth,Yes
+14805,Single,Female,10000.00,3,Partial High School,Manual,Yes,2,0-1 Miles,Europe,43,Mid Youth,No
+15822,Married,Male,40000.00,2,Bachelors,Management,Yes,2,0-1 Miles,Pacific,67,Old Age,No
+19389,Single,Male,30000.00,0,Partial College,Clerical,No,1,2-5 Miles,Europe,28,Youth,No
+17048,Single,Female,90000.00,1,Graduate Degree,Management,Yes,0,0-1 Miles,Pacific,36,Mid Youth,Yes
+22204,Married,Male,110000.00,4,Bachelors,Management,Yes,3,2-5 Miles,Pacific,48,Elder,No
+12718,Single,Female,30000.00,0,Partial College,Clerical,Yes,1,2-5 Miles,Europe,31,Youth,No
+15019,Single,Female,30000.00,3,High School,Skilled Manual,Yes,2,5-10 Miles,Pacific,55,Elder,No
+28488,Single,Male,20000.00,0,Partial College,Manual,Yes,0,0-1 Miles,Pacific,28,Youth,Yes
+21891,Married,Female,110000.00,0,High School,Management,Yes,3,10+ Miles,Pacific,34,Youth,Yes
+27814,Single,Female,30000.00,3,Partial College,Clerical,No,1,0-1 Miles,Europe,26,Youth,No
+22175,Married,Female,30000.00,3,High School,Skilled Manual,Yes,2,5-10 Miles,Pacific,53,Elder,Yes
+29447,Single,Female,10000.00,2,Bachelors,Clerical,No,1,2-5 Miles,Europe,68,Old Age,No
+19784,Married,Female,80000.00,2,High School,Skilled Manual,Yes,2,5-10 Miles,Pacific,50,Elder,Yes
+27824,Single,Female,30000.00,3,Partial College,Clerical,Yes,2,0-1 Miles,Europe,28,Youth,Yes
+24093,Single,Female,80000.00,0,Graduate Degree,Skilled Manual,No,0,0-1 Miles,Europe,40,Mid Youth,Yes
+19618,Married,Male,70000.00,5,Partial College,Skilled Manual,Yes,2,0-1 Miles,Pacific,44,Mid Youth,No
+21561,Single,Male,90000.00,0,Bachelors,Professional,No,3,10+ Miles,Pacific,34,Youth,Yes
+11061,Married,Male,70000.00,2,Partial College,Skilled Manual,Yes,2,5-10 Miles,Pacific,52,Elder,Yes
+26651,Single,Male,80000.00,4,Graduate Degree,Management,Yes,0,0-1 Miles,Pacific,36,Mid Youth,Yes
+21108,Married,Female,40000.00,1,Bachelors,Skilled Manual,Yes,1,0-1 Miles,Europe,43,Mid Youth,Yes
+12731,Single,Male,30000.00,0,High School,Manual,No,1,1-2 Miles,Europe,32,Youth,No
+25307,Married,Female,40000.00,1,Bachelors,Skilled Manual,Yes,1,1-2 Miles,Europe,32,Youth,Yes
+14278,Married,Female,130000.00,0,Graduate Degree,Management,Yes,1,10+ Miles,Pacific,48,Elder,No
+20711,Married,Female,40000.00,1,Bachelors,Skilled Manual,Yes,0,1-2 Miles,Europe,32,Youth,Yes
+11383,Married,Female,30000.00,3,Graduate Degree,Clerical,Yes,0,0-1 Miles,Europe,46,Elder,No
+12497,Married,Female,40000.00,1,Bachelors,Skilled Manual,Yes,0,0-1 Miles,Europe,42,Mid Youth,No
+16559,Single,Female,10000.00,2,High School,Manual,Yes,0,0-1 Miles,Europe,36,Mid Youth,Yes
+11585,Married,Female,40000.00,1,Bachelors,Skilled Manual,Yes,0,0-1 Miles,Europe,41,Mid Youth,No
+20277,Married,Female,30000.00,2,Partial College,Clerical,No,2,0-1 Miles,Pacific,69,Old Age,No
+26765,Single,Female,70000.00,5,Partial College,Skilled Manual,Yes,2,5-10 Miles,Pacific,45,Mid Youth,No
+12389,Single,Male,30000.00,0,High School,Manual,No,1,2-5 Miles,Europe,34,Youth,No
+13585,Married,Female,80000.00,4,Partial College,Professional,No,1,2-5 Miles,Europe,53,Elder,Yes
+26385,Single,Male,120000.00,3,High School,Professional,No,4,5-10 Miles,Europe,50,Elder,No
+12236,Married,Female,20000.00,1,Partial College,Manual,Yes,0,0-1 Miles,Europe,65,Old Age,No
+21560,Married,Male,120000.00,0,Partial High School,Professional,Yes,4,10+ Miles,Pacific,32,Youth,Yes
+21554,Single,Female,80000.00,0,Bachelors,Professional,No,3,10+ Miles,Pacific,33,Youth,No
+13662,Single,Male,20000.00,0,Partial High School,Manual,Yes,2,1-2 Miles,Europe,31,Youth,Yes
+13089,Married,Female,120000.00,1,Bachelors,Management,Yes,2,0-1 Miles,Pacific,46,Elder,Yes
+14791,Married,Female,40000.00,0,Bachelors,Clerical,Yes,0,0-1 Miles,Europe,39,Mid Youth,Yes
+19331,Single,Male,20000.00,2,High School,Manual,Yes,1,0-1 Miles,Europe,40,Mid Youth,No
+17754,Single,Female,30000.00,3,Bachelors,Clerical,Yes,0,0-1 Miles,Europe,46,Elder,Yes
+11149,Married,Male,40000.00,2,Bachelors,Management,Yes,2,0-1 Miles,Pacific,65,Old Age,No
+16549,Single,Female,30000.00,3,Bachelors,Clerical,Yes,0,0-1 Miles,Europe,47,Elder,Yes
+24305,Single,Male,100000.00,1,Bachelors,Management,No,3,0-1 Miles,Pacific,46,Elder,Yes
+18253,Married,Female,80000.00,5,Graduate Degree,Management,Yes,3,0-1 Miles,Pacific,40,Mid Youth,No
+20147,Married,Female,30000.00,1,Bachelors,Clerical,Yes,0,0-1 Miles,Europe,65,Old Age,No
+15612,Single,Male,30000.00,0,High School,Manual,No,1,1-2 Miles,Europe,28,Youth,No
+28323,Single,Male,70000.00,0,Bachelors,Professional,No,2,5-10 Miles,Pacific,43,Mid Youth,Yes
+22634,Single,Female,40000.00,0,Graduate Degree,Clerical,Yes,0,0-1 Miles,Europe,38,Mid Youth,Yes
+15665,Married,Female,30000.00,0,Bachelors,Clerical,Yes,0,0-1 Miles,Europe,47,Elder,Yes
+27585,Married,Female,90000.00,2,Bachelors,Professional,No,0,0-1 Miles,Pacific,36,Mid Youth,Yes
+19748,Married,Male,20000.00,4,High School,Skilled Manual,No,2,1-2 Miles,Pacific,60,Elder,No
+21974,Single,Female,70000.00,0,Bachelors,Professional,Yes,1,5-10 Miles,Pacific,42,Mid Youth,Yes
+14032,Married,Male,70000.00,2,High School,Skilled Manual,No,2,1-2 Miles,Pacific,50,Elder,Yes
+22610,Married,Male,30000.00,0,Bachelors,Clerical,Yes,0,0-1 Miles,Europe,35,Youth,Yes
+26984,Married,Male,40000.00,1,Bachelors,Skilled Manual,Yes,1,0-1 Miles,Europe,32,Youth,Yes
+18294,Married,Female,90000.00,1,Bachelors,Professional,Yes,1,5-10 Miles,Pacific,46,Elder,No
+28564,Single,Female,40000.00,2,Partial College,Clerical,Yes,0,1-2 Miles,Europe,33,Youth,Yes
+28521,Single,Male,40000.00,0,Graduate Degree,Clerical,No,0,0-1 Miles,Europe,36,Mid Youth,Yes
+15450,Married,Male,10000.00,1,Graduate Degree,Clerical,Yes,0,0-1 Miles,Europe,70,Old Age,No
+25681,Single,Female,30000.00,0,Partial College,Clerical,No,1,2-5 Miles,Europe,31,Youth,Yes
+19491,Single,Male,30000.00,2,Partial College,Clerical,Yes,2,0-1 Miles,Europe,42,Mid Youth,No
+26415,Married,Female,90000.00,4,Partial High School,Skilled Manual,Yes,4,10+ Miles,Europe,58,Elder,No
+12821,Married,Male,40000.00,0,Bachelors,Clerical,Yes,0,0-1 Miles,Europe,39,Mid Youth,No
+15629,Single,Female,10000.00,0,Partial High School,Manual,Yes,2,1-2 Miles,Europe,34,Youth,No
+27835,Married,Male,20000.00,0,Partial High School,Manual,Yes,2,0-1 Miles,Europe,32,Youth,No
+11738,Married,Male,60000.00,4,Bachelors,Professional,Yes,0,2-5 Miles,North America,46,Elder,No
+25065,Married,Male,70000.00,2,Partial High School,Skilled Manual,Yes,2,5-10 Miles,North America,48,Elder,No
+26238,Single,Female,40000.00,3,Partial College,Clerical,Yes,1,1-2 Miles,North America,31,Youth,Yes
+23707,Single,Male,70000.00,5,Bachelors,Management,Yes,3,10+ Miles,North America,60,Elder,Yes
+27650,Married,Male,70000.00,4,High School,Professional,Yes,0,5-10 Miles,North America,51,Elder,No
+24981,Married,Male,60000.00,2,Partial College,Professional,Yes,2,10+ Miles,North America,56,Elder,No
+20678,Single,Female,60000.00,3,Bachelors,Skilled Manual,Yes,1,2-5 Miles,North America,40,Mid Youth,Yes
+15302,Single,Female,70000.00,1,Graduate Degree,Professional,Yes,0,2-5 Miles,North America,34,Youth,Yes
+26012,Married,Male,80000.00,1,Partial College,Skilled Manual,Yes,1,2-5 Miles,North America,48,Elder,Yes
+26575,Single,Female,40000.00,0,High School,Skilled Manual,No,2,1-2 Miles,North America,31,Youth,Yes
+15559,Married,Male,60000.00,5,Bachelors,Professional,Yes,1,2-5 Miles,North America,47,Elder,No
+19235,Married,Female,50000.00,0,Graduate Degree,Skilled Manual,Yes,0,0-1 Miles,North America,34,Youth,No
+15275,Married,Male,40000.00,0,Partial College,Skilled Manual,Yes,1,5-10 Miles,North America,29,Youth,No
+20339,Married,Female,130000.00,1,Bachelors,Management,Yes,4,2-5 Miles,North America,44,Mid Youth,Yes
+25405,Married,Male,70000.00,2,Bachelors,Skilled Manual,Yes,1,2-5 Miles,North America,38,Mid Youth,Yes
+15940,Married,Male,100000.00,4,Partial College,Professional,Yes,4,0-1 Miles,North America,40,Mid Youth,No
+25074,Married,Female,70000.00,4,Bachelors,Professional,Yes,2,2-5 Miles,North America,42,Mid Youth,Yes
+24738,Married,Female,40000.00,1,Partial College,Clerical,Yes,1,1-2 Miles,North America,51,Elder,Yes
+16337,Married,Male,60000.00,0,Partial College,Skilled Manual,No,2,1-2 Miles,North America,29,Youth,No
+24357,Married,Male,80000.00,3,Bachelors,Professional,Yes,1,2-5 Miles,North America,48,Elder,Yes
+18613,Single,Male,70000.00,0,Bachelors,Professional,No,1,2-5 Miles,North America,37,Mid Youth,Yes
+12207,Single,Male,80000.00,4,Bachelors,Management,Yes,0,5-10 Miles,North America,66,Old Age,Yes
+18052,Married,Female,60000.00,1,Partial College,Skilled Manual,Yes,1,0-1 Miles,North America,45,Mid Youth,Yes
+13353,Single,Female,60000.00,4,Graduate Degree,Management,Yes,2,10+ Miles,North America,61,Old Age,Yes
+19399,Single,Male,40000.00,0,Bachelors,Professional,No,1,2-5 Miles,North America,45,Mid Youth,No
+16154,Married,Female,70000.00,5,Bachelors,Professional,Yes,2,2-5 Miles,North America,47,Elder,No
+22219,Married,Female,60000.00,2,High School,Professional,Yes,2,5-10 Miles,North America,49,Elder,No
+17269,Single,Male,60000.00,3,Bachelors,Professional,No,0,0-1 Miles,North America,47,Elder,Yes
+23586,Married,Female,80000.00,0,Bachelors,Management,Yes,1,1-2 Miles,North America,34,Youth,Yes
+15740,Married,Male,80000.00,5,Bachelors,Management,Yes,2,1-2 Miles,North America,64,Old Age,No
+27638,Single,Male,100000.00,1,Partial College,Professional,No,3,1-2 Miles,North America,44,Mid Youth,No
+18976,Single,Male,40000.00,4,High School,Professional,Yes,2,10+ Miles,North America,62,Old Age,Yes
+19413,Single,Male,60000.00,3,Bachelors,Professional,No,1,0-1 Miles,North America,47,Elder,Yes
+13283,Married,Male,80000.00,3,Partial College,Professional,No,2,0-1 Miles,North America,49,Elder,Yes
+17471,Single,Female,80000.00,4,Graduate Degree,Management,Yes,2,5-10 Miles,North America,67,Old Age,No
+16791,Single,Male,60000.00,5,Bachelors,Management,Yes,3,10+ Miles,North America,59,Elder,Yes
+15382,Married,Female,110000.00,1,Bachelors,Management,Yes,2,1-2 Miles,North America,44,Mid Youth,No
+11641,Married,Male,50000.00,1,Bachelors,Skilled Manual,Yes,0,0-1 Miles,North America,36,Mid Youth,No
+11935,Single,Female,30000.00,0,Partial College,Skilled Manual,Yes,1,5-10 Miles,North America,28,Youth,No
+13233,Married,Male,60000.00,2,Partial College,Professional,Yes,1,10+ Miles,North America,57,Elder,Yes
+25909,Married,Male,60000.00,0,Partial College,Skilled Manual,Yes,1,5-10 Miles,North America,27,Youth,Yes
+14092,Single,Male,30000.00,0,Partial High School,Clerical,Yes,2,5-10 Miles,North America,28,Youth,No
+29143,Single,Female,60000.00,1,Bachelors,Professional,No,1,0-1 Miles,North America,44,Mid Youth,Yes
+24941,Married,Male,60000.00,3,Bachelors,Management,Yes,2,10+ Miles,North America,66,Old Age,No
+24637,Married,Male,40000.00,4,High School,Professional,Yes,2,10+ Miles,North America,64,Old Age,No
+23893,Married,Male,50000.00,3,Bachelors,Skilled Manual,Yes,3,10+ Miles,North America,41,Mid Youth,No
+13907,Single,Female,80000.00,3,Bachelors,Skilled Manual,Yes,1,0-1 Miles,North America,41,Mid Youth,Yes
+14900,Married,Female,40000.00,1,Partial College,Clerical,Yes,1,1-2 Miles,North America,49,Elder,Yes
+11262,Married,Female,80000.00,4,Bachelors,Management,Yes,0,0-1 Miles,North America,42,Mid Youth,No
+22294,Single,Female,70000.00,0,Bachelors,Professional,No,1,2-5 Miles,North America,37,Mid Youth,Yes
+12195,Single,Female,70000.00,3,Graduate Degree,Management,Yes,2,1-2 Miles,North America,52,Elder,No
+25375,Married,Male,50000.00,1,Graduate Degree,Skilled Manual,Yes,0,1-2 Miles,North America,34,Youth,No
+11143,Married,Male,40000.00,0,High School,Skilled Manual,Yes,2,5-10 Miles,North America,29,Youth,No
+25898,Married,Female,70000.00,2,High School,Professional,Yes,2,2-5 Miles,North America,53,Elder,No
+24397,Single,Male,120000.00,2,Bachelors,Management,No,4,1-2 Miles,North America,40,Mid Youth,No
+19758,Single,Male,60000.00,0,Partial College,Skilled Manual,No,2,1-2 Miles,North America,29,Youth,No
+15529,Married,Male,60000.00,4,Bachelors,Professional,Yes,2,2-5 Miles,North America,43,Mid Youth,Yes
+19884,Married,Male,60000.00,2,High School,Professional,Yes,2,2-5 Miles,North America,55,Elder,Yes
+18674,Single,Female,80000.00,4,Graduate Degree,Skilled Manual,No,0,0-1 Miles,North America,48,Elder,No
+13453,Married,Female,130000.00,3,Bachelors,Management,Yes,3,0-1 Miles,North America,45,Mid Youth,Yes
+14063,Single,Female,70000.00,0,Bachelors,Professional,No,1,0-1 Miles,Pacific,42,Mid Youth,Yes
+27393,Married,Female,50000.00,4,Bachelors,Management,Yes,2,10+ Miles,North America,63,Old Age,No
+14417,Single,Male,60000.00,3,High School,Professional,Yes,2,10+ Miles,North America,54,Elder,Yes
+17533,Married,Male,40000.00,3,Partial College,Professional,No,2,5-10 Miles,North America,73,Old Age,Yes
+18580,Married,Female,60000.00,2,Graduate Degree,Professional,Yes,0,2-5 Miles,North America,40,Mid Youth,Yes
+17025,Single,Male,50000.00,0,Partial College,Skilled Manual,No,1,2-5 Miles,North America,39,Mid Youth,Yes
+25293,Married,Male,80000.00,4,Bachelors,Management,Yes,0,1-2 Miles,North America,42,Mid Youth,No
+24725,Married,Female,40000.00,3,Partial College,Clerical,Yes,0,1-2 Miles,North America,31,Youth,No
+23200,Married,Female,50000.00,3,Bachelors,Skilled Manual,Yes,2,0-1 Miles,North America,41,Mid Youth,No
+15895,Single,Female,60000.00,2,Bachelors,Management,Yes,0,10+ Miles,North America,58,Elder,No
+18577,Married,Female,60000.00,0,Graduate Degree,Professional,Yes,0,0-1 Miles,North America,40,Mid Youth,No
+27218,Married,Female,20000.00,2,Partial High School,Clerical,No,0,0-1 Miles,North America,48,Elder,No
+18560,Married,Female,70000.00,2,Graduate Degree,Professional,Yes,0,2-5 Miles,North America,34,Youth,Yes
+25006,Single,Female,30000.00,0,Partial College,Skilled Manual,Yes,1,5-10 Miles,North America,28,Youth,No
+17369,Single,Male,30000.00,0,Partial College,Skilled Manual,Yes,1,5-10 Miles,North America,27,Youth,No
+14495,Married,Male,40000.00,3,Partial College,Professional,No,2,5-10 Miles,North America,54,Elder,Yes
+18847,Married,Female,60000.00,2,Graduate Degree,Management,Yes,2,5-10 Miles,North America,70,Old Age,No
+14754,Married,Male,40000.00,1,Partial College,Clerical,Yes,1,1-2 Miles,North America,48,Elder,Yes
+23378,Married,Male,70000.00,1,Partial College,Skilled Manual,Yes,1,2-5 Miles,North America,44,Mid Youth,Yes
+26452,Single,Male,50000.00,3,Graduate Degree,Management,Yes,2,10+ Miles,North America,69,Old Age,No
+20370,Married,Male,70000.00,3,Partial High School,Skilled Manual,Yes,2,5-10 Miles,North America,52,Elder,No
+20528,Married,Male,40000.00,2,Partial High School,Skilled Manual,Yes,2,2-5 Miles,North America,55,Elder,No
+23549,Single,Male,30000.00,0,High School,Skilled Manual,Yes,2,5-10 Miles,North America,30,Youth,No
+21751,Married,Male,60000.00,3,Graduate Degree,Management,Yes,2,1-2 Miles,North America,63,Old Age,No
+21266,Single,Female,80000.00,0,Bachelors,Management,Yes,1,1-2 Miles,North America,34,Youth,Yes
+13388,Single,Male,60000.00,2,Partial College,Professional,Yes,1,10+ Miles,North America,56,Elder,No
+18752,Single,Female,40000.00,0,High School,Skilled Manual,Yes,1,5-10 Miles,North America,31,Youth,No
+16917,Married,Male,120000.00,1,Bachelors,Management,Yes,4,0-1 Miles,North America,38,Mid Youth,No
+15313,Married,Male,60000.00,4,Bachelors,Management,Yes,2,2-5 Miles,North America,59,Elder,No
+25329,Single,Female,40000.00,3,Partial College,Clerical,No,2,0-1 Miles,North America,32,Youth,No
+20380,Married,Female,60000.00,3,Graduate Degree,Management,Yes,2,10+ Miles,North America,69,Old Age,No
+23089,Married,Male,40000.00,0,Partial College,Skilled Manual,Yes,1,5-10 Miles,North America,28,Youth,No
+13749,Married,Male,80000.00,4,Graduate Degree,Skilled Manual,Yes,0,1-2 Miles,North America,47,Elder,No
+24943,Married,Male,60000.00,3,Bachelors,Management,Yes,2,10+ Miles,North America,66,Old Age,No
+28667,Single,Male,70000.00,2,Bachelors,Skilled Manual,No,1,0-1 Miles,North America,37,Mid Youth,Yes
+15194,Single,Male,120000.00,2,Bachelors,Management,No,3,0-1 Miles,North America,39,Mid Youth,Yes
+17436,Married,Male,60000.00,2,High School,Professional,No,2,1-2 Miles,North America,51,Elder,No
+18935,Married,Female,130000.00,0,Graduate Degree,Management,Yes,3,1-2 Miles,North America,40,Mid Youth,No
+16871,Married,Female,90000.00,2,High School,Professional,Yes,1,10+ Miles,North America,51,Elder,Yes
+12100,Single,Male,60000.00,2,Bachelors,Management,Yes,0,10+ Miles,North America,57,Elder,No
+23158,Married,Female,60000.00,1,Graduate Degree,Professional,No,0,0-1 Miles,North America,35,Youth,Yes
+18545,Married,Male,40000.00,4,High School,Professional,No,2,10+ Miles,North America,61,Old Age,Yes
+18391,Single,Female,80000.00,5,Partial College,Professional,Yes,2,5-10 Miles,North America,44,Mid Youth,No
+19812,Single,Female,70000.00,2,Partial College,Professional,Yes,0,5-10 Miles,North America,49,Elder,Yes
+27660,Married,Male,80000.00,4,Graduate Degree,Management,Yes,2,5-10 Miles,North America,70,Old Age,No
+18058,Single,Female,20000.00,3,High School,Skilled Manual,Yes,2,2-5 Miles,North America,78,Old Age,No
+20343,Married,Female,90000.00,4,Partial College,Professional,Yes,1,1-2 Miles,North America,45,Mid Youth,No
+28997,Single,Male,40000.00,2,High School,Professional,No,1,2-5 Miles,North America,58,Elder,Yes
+24398,Married,Male,130000.00,1,Graduate Degree,Management,Yes,4,0-1 Miles,North America,41,Mid Youth,No
+19002,Married,Female,60000.00,2,Partial College,Professional,Yes,1,2-5 Miles,North America,57,Elder,Yes
+28609,Married,Male,30000.00,2,High School,Skilled Manual,No,2,0-1 Miles,North America,49,Elder,No
+29231,Single,Male,80000.00,4,Partial College,Professional,No,2,0-1 Miles,North America,43,Mid Youth,No
+18858,Single,Male,60000.00,2,Partial High School,Skilled Manual,Yes,2,5-10 Miles,North America,52,Elder,Yes
+20000,Married,Male,60000.00,1,Graduate Degree,Professional,Yes,0,0-1 Miles,North America,35,Youth,Yes
+25261,Married,Male,40000.00,0,High School,Skilled Manual,Yes,2,5-10 Miles,North America,27,Youth,No
+17458,Single,Male,70000.00,3,High School,Professional,Yes,0,5-10 Miles,North America,52,Elder,Yes
+11644,Single,Male,40000.00,2,Bachelors,Skilled Manual,Yes,0,2-5 Miles,North America,36,Mid Youth,No
+16145,Single,Female,70000.00,5,Graduate Degree,Professional,Yes,3,10+ Miles,North America,46,Elder,Yes
+16890,Married,Male,60000.00,3,Partial High School,Skilled Manual,Yes,2,5-10 Miles,North America,52,Elder,Yes
+25983,Married,Male,70000.00,0,Bachelors,Professional,No,1,0-1 Miles,North America,43,Mid Youth,No
+14633,Married,Male,60000.00,1,Partial College,Skilled Manual,Yes,1,2-5 Miles,North America,44,Mid Youth,No
+22994,Married,Female,80000.00,0,Bachelors,Management,Yes,1,1-2 Miles,North America,34,Youth,Yes
+22983,Single,Female,30000.00,0,Partial High School,Clerical,Yes,2,5-10 Miles,North America,27,Youth,No
+25184,Single,Male,110000.00,1,Partial College,Professional,Yes,4,5-10 Miles,North America,45,Mid Youth,Yes
+14469,Married,Female,100000.00,3,Partial College,Professional,Yes,4,1-2 Miles,North America,45,Mid Youth,No
+11538,Single,Female,60000.00,4,Graduate Degree,Skilled Manual,No,0,0-1 Miles,North America,47,Elder,Yes
+16245,Single,Female,80000.00,4,Graduate Degree,Skilled Manual,Yes,0,1-2 Miles,North America,47,Elder,No
+17858,Married,Male,40000.00,4,High School,Skilled Manual,Yes,2,2-5 Miles,North America,44,Mid Youth,Yes
+25347,Single,Female,20000.00,3,Partial High School,Clerical,No,2,0-1 Miles,North America,49,Elder,No
+15814,Single,Female,40000.00,0,High School,Skilled Manual,Yes,1,5-10 Miles,North America,30,Youth,No
+11259,Married,Female,100000.00,4,Partial College,Professional,Yes,4,2-5 Miles,North America,41,Mid Youth,Yes
+11200,Married,Male,70000.00,4,Bachelors,Management,Yes,1,1-2 Miles,North America,58,Elder,No
+25101,Married,Male,60000.00,5,Bachelors,Professional,Yes,1,2-5 Miles,North America,47,Elder,No
+21801,Married,Female,70000.00,4,Partial College,Professional,Yes,1,1-2 Miles,North America,55,Elder,No
+25943,Single,Female,70000.00,0,Partial College,Skilled Manual,No,2,0-1 Miles,North America,27,Youth,Yes
+22127,Married,Male,60000.00,3,Graduate Degree,Management,Yes,2,1-2 Miles,North America,67,Old Age,No
+20414,Married,Female,60000.00,0,Partial College,Skilled Manual,Yes,2,5-10 Miles,North America,29,Youth,No
+23672,Married,Female,60000.00,3,Graduate Degree,Management,Yes,2,1-2 Miles,North America,67,Old Age,No
+29255,Single,Male,80000.00,3,Partial College,Professional,No,1,1-2 Miles,North America,51,Elder,Yes
+28815,Married,Female,50000.00,1,Graduate Degree,Skilled Manual,Yes,0,0-1 Miles,North America,35,Youth,No
+27753,Married,Male,40000.00,0,High School,Skilled Manual,No,2,1-2 Miles,North America,30,Youth,No
+27643,Single,Male,70000.00,5,Partial College,Professional,Yes,3,2-5 Miles,North America,44,Mid Youth,No
+13754,Single,Female,80000.00,4,Graduate Degree,Skilled Manual,Yes,0,1-2 Miles,North America,48,Elder,No
+22088,Married,Female,130000.00,1,Bachelors,Management,Yes,2,0-1 Miles,North America,45,Mid Youth,Yes
+27388,Married,Male,60000.00,3,Bachelors,Management,No,2,1-2 Miles,North America,66,Old Age,No
+24745,Single,Female,30000.00,2,High School,Skilled Manual,No,2,0-1 Miles,North America,49,Elder,No
+29237,Single,Female,120000.00,4,Partial College,Professional,Yes,3,5-10 Miles,North America,43,Mid Youth,Yes
+15272,Single,Male,40000.00,0,High School,Skilled Manual,No,2,1-2 Miles,North America,30,Youth,No
+18949,Single,Male,70000.00,0,Graduate Degree,Management,Yes,2,5-10 Miles,North America,74,Old Age,Yes
+14507,Married,Male,100000.00,2,Graduate Degree,Management,Yes,3,1-2 Miles,North America,65,Old Age,No
+25886,Married,Female,60000.00,2,Partial College,Professional,Yes,2,2-5 Miles,North America,56,Elder,Yes
+21441,Married,Male,50000.00,4,Bachelors,Management,Yes,2,10+ Miles,North America,64,Old Age,No
+21741,Married,Female,70000.00,3,Partial College,Professional,Yes,2,5-10 Miles,North America,50,Elder,Yes
+14572,Married,Female,70000.00,3,Graduate Degree,Professional,Yes,0,2-5 Miles,North America,35,Youth,Yes
+23368,Married,Female,60000.00,5,Bachelors,Skilled Manual,Yes,3,10+ Miles,North America,41,Mid Youth,No
+16217,Single,Female,60000.00,0,Graduate Degree,Skilled Manual,Yes,0,0-1 Miles,North America,39,Mid Youth,No
+16247,Single,Female,60000.00,4,Graduate Degree,Skilled Manual,No,0,1-2 Miles,North America,47,Elder,No
+22010,Single,Male,40000.00,0,High School,Skilled Manual,Yes,2,5-10 Miles,North America,31,Youth,No
+25872,Single,Female,70000.00,2,Bachelors,Management,No,1,2-5 Miles,North America,58,Elder,Yes
+19164,Single,Female,70000.00,0,Bachelors,Professional,No,1,2-5 Miles,North America,38,Mid Youth,Yes
+18435,Single,Female,70000.00,5,Graduate Degree,Management,Yes,2,10+ Miles,North America,67,Old Age,Yes
+14284,Single,Male,60000.00,0,Partial College,Professional,No,2,1-2 Miles,North America,32,Youth,Yes
+11287,Married,Male,70000.00,5,Partial College,Professional,No,3,5-10 Miles,North America,45,Mid Youth,No
+13066,Single,Male,30000.00,0,High School,Skilled Manual,No,2,1-2 Miles,North America,31,Youth,Yes
+29106,Single,Male,40000.00,0,High School,Skilled Manual,No,2,1-2 Miles,North America,31,Youth,Yes
+26236,Married,Female,40000.00,3,Partial College,Clerical,Yes,1,0-1 Miles,North America,31,Youth,No
+17531,Married,Male,60000.00,2,High School,Professional,No,2,5-10 Miles,North America,50,Elder,No
+12964,Married,Male,70000.00,1,Partial College,Skilled Manual,Yes,1,0-1 Miles,North America,44,Mid Youth,No
+19133,Single,Male,50000.00,2,Bachelors,Skilled Manual,Yes,1,2-5 Miles,North America,38,Mid Youth,Yes
+24643,Single,Female,60000.00,4,Bachelors,Management,Yes,2,10+ Miles,North America,63,Old Age,No
+21599,Married,Female,60000.00,1,Graduate Degree,Professional,Yes,0,2-5 Miles,North America,36,Mid Youth,Yes
+22976,Single,Male,40000.00,0,High School,Skilled Manual,No,2,0-1 Miles,North America,28,Youth,Yes
+27637,Single,Female,100000.00,1,Partial College,Professional,No,3,1-2 Miles,North America,44,Mid Youth,No
+11890,Married,Female,70000.00,5,Graduate Degree,Professional,Yes,1,0-1 Miles,North America,47,Elder,No
+28580,Married,Female,80000.00,0,Graduate Degree,Skilled Manual,Yes,0,1-2 Miles,North America,40,Mid Youth,Yes
+14443,Married,Male,130000.00,1,Graduate Degree,Management,Yes,4,0-1 Miles,North America,40,Mid Youth,No
+17864,Married,Female,60000.00,1,Partial College,Skilled Manual,Yes,1,2-5 Miles,North America,46,Elder,Yes
+20505,Married,Female,40000.00,5,High School,Professional,No,2,10+ Miles,North America,61,Old Age,No
+14592,Married,Female,60000.00,0,Graduate Degree,Professional,Yes,0,0-1 Miles,North America,40,Mid Youth,No
+22227,Married,Female,60000.00,2,High School,Professional,Yes,2,5-10 Miles,North America,50,Elder,No
+21471,Married,Male,70000.00,2,Partial College,Professional,Yes,1,10+ Miles,North America,59,Elder,No
+22252,Single,Female,60000.00,1,Graduate Degree,Professional,Yes,0,2-5 Miles,North America,36,Mid Youth,Yes
+21260,Single,Female,40000.00,0,High School,Skilled Manual,Yes,2,5-10 Miles,North America,30,Youth,No
+11817,Single,Female,70000.00,4,Graduate Degree,Professional,Yes,0,2-5 Miles,North America,35,Youth,Yes
+19223,Married,Female,30000.00,2,High School,Skilled Manual,Yes,2,1-2 Miles,North America,48,Elder,No
+18517,Married,Male,100000.00,3,Bachelors,Management,Yes,4,0-1 Miles,North America,41,Mid Youth,No
+21717,Married,Male,40000.00,2,Partial College,Clerical,Yes,1,0-1 Miles,North America,47,Elder,No
+13760,Married,Male,60000.00,4,Graduate Degree,Skilled Manual,No,0,0-1 Miles,North America,47,Elder,No
+18145,Married,Male,80000.00,5,Bachelors,Management,No,2,2-5 Miles,Europe,62,Old Age,No
+21770,Married,Male,60000.00,4,Bachelors,Management,Yes,2,10+ Miles,North America,60,Elder,No
+11165,Married,Female,60000.00,0,Partial College,Skilled Manual,No,1,1-2 Miles,North America,33,Youth,No
+16377,Single,Female,80000.00,4,Graduate Degree,Skilled Manual,No,0,0-1 Miles,North America,47,Elder,No
+26248,Married,Male,20000.00,3,Partial High School,Clerical,No,2,0-1 Miles,North America,52,Elder,No
+23461,Married,Female,90000.00,5,Partial College,Professional,Yes,3,2-5 Miles,North America,40,Mid Youth,No
+29133,Single,Female,60000.00,4,Bachelors,Skilled Manual,No,2,0-1 Miles,North America,42,Mid Youth,No
+27673,Single,Female,60000.00,3,Graduate Degree,Management,Yes,2,5-10 Miles,North America,53,Elder,Yes
+12774,Married,Female,40000.00,1,Partial College,Clerical,Yes,1,1-2 Miles,North America,51,Elder,Yes
+18910,Single,Male,30000.00,0,Partial College,Skilled Manual,Yes,2,5-10 Miles,North America,30,Youth,No
+11699,Single,Male,60000.00,0,Bachelors,Skilled Manual,No,2,0-1 Miles,North America,30,Youth,No
+16725,Married,Male,30000.00,0,High School,Skilled Manual,Yes,2,5-10 Miles,North America,26,Youth,No
+28269,Single,Female,130000.00,1,Bachelors,Management,No,1,2-5 Miles,North America,45,Mid Youth,No
+23144,Married,Male,50000.00,1,Bachelors,Skilled Manual,Yes,0,0-1 Miles,North America,34,Youth,Yes
+23376,Married,Male,70000.00,1,Bachelors,Professional,Yes,1,2-5 Miles,North America,44,Mid Youth,Yes
+25970,Single,Female,60000.00,4,Bachelors,Skilled Manual,No,2,0-1 Miles,North America,41,Mid Youth,Yes
+28068,Single,Female,80000.00,3,Graduate Degree,Professional,No,0,0-1 Miles,North America,36,Mid Youth,Yes
+18390,Married,Male,80000.00,5,Partial College,Professional,Yes,2,0-1 Miles,North America,44,Mid Youth,No
+29112,Single,Male,60000.00,0,Partial College,Professional,No,2,1-2 Miles,North America,30,Youth,No
+14090,Married,Female,30000.00,0,Partial High School,Clerical,No,2,0-1 Miles,North America,28,Youth,No
+27040,Married,Male,20000.00,2,Partial High School,Clerical,Yes,2,1-2 Miles,North America,49,Elder,No
+23479,Single,Male,90000.00,0,Partial College,Professional,No,2,0-1 Miles,North America,43,Mid Youth,Yes
+16795,Married,Female,70000.00,4,Bachelors,Management,Yes,1,1-2 Miles,North America,59,Elder,No
+22014,Single,Male,30000.00,0,High School,Skilled Manual,Yes,2,5-10 Miles,North America,26,Youth,No
+13314,Married,Male,120000.00,1,High School,Professional,Yes,4,5-10 Miles,North America,46,Elder,Yes
+11619,Single,Female,50000.00,0,Graduate Degree,Skilled Manual,Yes,0,1-2 Miles,North America,33,Youth,No
+29132,Single,Female,40000.00,0,Bachelors,Professional,Yes,1,2-5 Miles,North America,42,Mid Youth,Yes
+11199,Married,Female,70000.00,4,Bachelors,Management,Yes,1,10+ Miles,North America,59,Elder,No
+20296,Single,Female,60000.00,0,Partial College,Skilled Manual,No,1,1-2 Miles,North America,33,Youth,Yes
+17546,Married,Female,70000.00,1,Partial College,Skilled Manual,Yes,1,0-1 Miles,North America,44,Mid Youth,Yes
+18069,Married,Male,70000.00,5,Bachelors,Management,Yes,4,10+ Miles,North America,60,Elder,No
+23712,Single,Female,70000.00,2,Bachelors,Management,Yes,1,10+ Miles,North America,59,Elder,No
+23358,Married,Male,60000.00,0,High School,Professional,Yes,2,5-10 Miles,North America,32,Youth,Yes
+20518,Married,Female,70000.00,2,Partial College,Professional,Yes,1,10+ Miles,North America,58,Elder,No
+28026,Married,Female,40000.00,2,High School,Professional,No,2,2-5 Miles,North America,59,Elder,No
+11669,Single,Female,70000.00,2,Bachelors,Skilled Manual,Yes,1,2-5 Miles,North America,38,Mid Youth,No
+16020,Married,Male,40000.00,0,High School,Skilled Manual,Yes,2,5-10 Miles,North America,28,Youth,Yes
+27090,Married,Female,60000.00,1,Graduate Degree,Professional,Yes,0,2-5 Miles,North America,37,Mid Youth,Yes
+27198,Single,Female,80000.00,0,Graduate Degree,Skilled Manual,No,0,0-1 Miles,North America,40,Mid Youth,No
+19661,Single,Male,90000.00,4,Bachelors,Management,Yes,1,1-2 Miles,North America,38,Mid Youth,Yes
+26327,Married,Male,70000.00,4,Graduate Degree,Professional,Yes,0,2-5 Miles,North America,36,Mid Youth,Yes
+26341,Married,Female,70000.00,5,Graduate Degree,Professional,Yes,2,0-1 Miles,North America,37,Mid Youth,No
+24958,Single,Female,40000.00,5,High School,Professional,No,3,2-5 Miles,North America,60,Elder,Yes
+13287,Single,Male,110000.00,4,Bachelors,Management,Yes,4,5-10 Miles,North America,42,Mid Youth,Yes
+14493,Single,Female,70000.00,3,Graduate Degree,Management,No,2,1-2 Miles,North America,53,Elder,No
+26678,Single,Female,80000.00,2,Partial High School,Skilled Manual,Yes,2,5-10 Miles,North America,49,Elder,No
+23275,Married,Male,30000.00,2,High School,Skilled Manual,Yes,2,1-2 Miles,North America,49,Elder,No
+11270,Married,Male,130000.00,2,Graduate Degree,Management,Yes,3,0-1 Miles,North America,42,Mid Youth,Yes
+20084,Married,Male,20000.00,2,High School,Manual,No,2,0-1 Miles,North America,53,Elder,No
+16144,Married,Male,70000.00,1,Graduate Degree,Professional,Yes,1,0-1 Miles,North America,46,Elder,Yes
+27731,Married,Male,40000.00,0,High School,Skilled Manual,Yes,2,5-10 Miles,North America,27,Youth,No
+11886,Married,Female,60000.00,3,Bachelors,Professional,Yes,1,0-1 Miles,North America,48,Elder,Yes
+24324,Single,Female,60000.00,4,Bachelors,Skilled Manual,Yes,2,2-5 Miles,North America,41,Mid Youth,Yes
+22220,Married,Male,60000.00,2,High School,Professional,No,2,1-2 Miles,North America,49,Elder,Yes
+26625,Single,Female,60000.00,0,Graduate Degree,Professional,Yes,1,2-5 Miles,North America,38,Mid Youth,Yes
+23027,Single,Male,130000.00,1,Bachelors,Management,No,4,0-1 Miles,North America,44,Mid Youth,No
+16867,Single,Female,130000.00,1,Bachelors,Management,No,3,0-1 Miles,North America,45,Mid Youth,Yes
+14514,Single,Female,30000.00,0,Partial College,Skilled Manual,Yes,1,5-10 Miles,North America,26,Youth,No
+19634,Married,Male,40000.00,0,High School,Skilled Manual,Yes,1,5-10 Miles,North America,31,Youth,No
+18504,Married,Male,70000.00,2,Partial High School,Skilled Manual,No,2,1-2 Miles,North America,49,Elder,No
+28799,Single,Female,40000.00,2,Partial College,Clerical,No,1,1-2 Miles,North America,47,Elder,Yes
+11225,Married,Female,60000.00,2,Partial College,Professional,Yes,1,10+ Miles,North America,55,Elder,No
+17657,Married,Male,40000.00,4,Partial College,Clerical,No,0,0-1 Miles,North America,30,Youth,No
+14913,Married,Female,40000.00,1,Partial College,Clerical,Yes,1,1-2 Miles,North America,48,Elder,Yes
+14077,Single,Male,30000.00,0,High School,Skilled Manual,Yes,2,5-10 Miles,North America,30,Youth,No
+13296,Married,Male,110000.00,1,Bachelors,Management,Yes,3,5-10 Miles,North America,45,Mid Youth,No
+20535,Married,Female,70000.00,4,Partial College,Professional,Yes,1,10+ Miles,North America,56,Elder,No
+12452,Married,Male,60000.00,4,Graduate Degree,Skilled Manual,Yes,0,1-2 Miles,North America,47,Elder,Yes
+28043,Married,Female,60000.00,2,Bachelors,Management,Yes,0,10+ Miles,North America,56,Elder,No
+12957,Single,Female,70000.00,1,Bachelors,Professional,No,1,0-1 Miles,North America,44,Mid Youth,No
+15412,Married,Male,130000.00,2,Graduate Degree,Management,Yes,3,2-5 Miles,North America,69,Old Age,No
+20514,Married,Female,70000.00,2,Partial College,Professional,Yes,1,2-5 Miles,North America,59,Elder,No
+20758,Married,Male,30000.00,2,High School,Skilled Manual,Yes,2,1-2 Miles,North America,50,Elder,No
+11801,Married,Male,60000.00,1,Graduate Degree,Professional,Yes,0,2-5 Miles,North America,36,Mid Youth,No
+22211,Married,Male,60000.00,0,Partial College,Professional,Yes,2,5-10 Miles,North America,32,Youth,No
+28087,Single,Female,40000.00,0,Partial College,Skilled Manual,No,1,1-2 Miles,North America,27,Youth,No
+23668,Married,Female,40000.00,4,High School,Professional,Yes,2,5-10 Miles,North America,59,Elder,Yes
+27441,Married,Male,60000.00,3,High School,Professional,No,2,2-5 Miles,North America,53,Elder,No
+27261,Married,Male,40000.00,1,Bachelors,Skilled Manual,No,1,0-1 Miles,North America,36,Mid Youth,Yes
+18649,Single,Male,30000.00,1,High School,Clerical,Yes,2,1-2 Miles,North America,51,Elder,Yes
+21714,Single,Female,80000.00,5,Graduate Degree,Skilled Manual,No,0,0-1 Miles,North America,47,Elder,No
+23217,Single,Female,60000.00,3,Graduate Degree,Professional,Yes,0,2-5 Miles,North America,43,Mid Youth,Yes
+23797,Single,Male,20000.00,3,Partial High School,Clerical,No,2,0-1 Miles,North America,50,Elder,No
+13216,Married,Female,60000.00,5,Bachelors,Management,Yes,3,10+ Miles,North America,59,Elder,No
+20657,Single,Male,50000.00,2,Bachelors,Skilled Manual,Yes,0,2-5 Miles,North America,37,Mid Youth,Yes
+12882,Married,Male,50000.00,1,Graduate Degree,Skilled Manual,Yes,0,0-1 Miles,North America,33,Youth,Yes
+25908,Married,Female,60000.00,0,Partial College,Skilled Manual,No,1,1-2 Miles,North America,27,Youth,No
+16753,Single,Female,70000.00,0,Partial College,Skilled Manual,Yes,2,5-10 Miles,North America,34,Youth,Yes
+14608,Married,Male,50000.00,4,Bachelors,Skilled Manual,Yes,3,10+ Miles,North America,42,Mid Youth,No
+24979,Married,Female,60000.00,2,Partial College,Professional,Yes,2,2-5 Miles,North America,57,Elder,Yes
+13313,Married,Female,120000.00,1,High School,Professional,No,4,2-5 Miles,North America,45,Mid Youth,No
+18952,Married,Female,100000.00,4,Bachelors,Management,Yes,4,0-1 Miles,North America,40,Mid Youth,No
+17699,Married,Male,60000.00,1,Graduate Degree,Skilled Manual,No,0,0-1 Miles,North America,55,Elder,No
+14657,Married,Male,80000.00,1,Partial College,Skilled Manual,No,1,0-1 Miles,North America,47,Elder,Yes
+11540,Single,Male,60000.00,4,Graduate Degree,Skilled Manual,Yes,0,1-2 Miles,North America,47,Elder,Yes
+11783,Married,Female,60000.00,1,Graduate Degree,Skilled Manual,Yes,0,0-1 Miles,North America,34,Youth,No
+14602,Married,Female,80000.00,3,Graduate Degree,Professional,Yes,0,0-1 Miles,North America,36,Mid Youth,Yes
+29030,Married,Male,70000.00,2,Partial High School,Skilled Manual,Yes,2,10+ Miles,North America,54,Elder,No
+26490,Single,Male,70000.00,2,Bachelors,Management,No,1,2-5 Miles,North America,59,Elder,Yes
+13151,Single,Male,40000.00,0,High School,Skilled Manual,Yes,2,5-10 Miles,North America,27,Youth,No
+17260,Married,Male,90000.00,5,Partial College,Professional,Yes,3,0-1 Miles,North America,41,Mid Youth,No
+15372,Married,Male,80000.00,3,Partial College,Professional,No,2,2-5 Miles,North America,50,Elder,Yes
+18105,Married,Female,60000.00,2,Partial College,Professional,Yes,1,10+ Miles,North America,55,Elder,No
+19660,Married,Male,80000.00,4,Bachelors,Management,Yes,0,0-1 Miles,North America,43,Mid Youth,No
+16112,Single,Male,70000.00,4,Bachelors,Professional,Yes,2,2-5 Miles,North America,43,Mid Youth,Yes
+20698,Married,Male,60000.00,4,Bachelors,Skilled Manual,Yes,3,5-10 Miles,North America,42,Mid Youth,No
+20076,Single,Female,10000.00,2,High School,Manual,Yes,2,1-2 Miles,North America,53,Elder,Yes
+24496,Single,Female,40000.00,0,High School,Skilled Manual,No,2,0-1 Miles,North America,28,Youth,Yes
+15468,Married,Female,50000.00,1,Bachelors,Skilled Manual,Yes,1,0-1 Miles,North America,35,Youth,No
+28031,Single,Female,70000.00,2,Bachelors,Management,No,1,2-5 Miles,North America,59,Elder,Yes
+26270,Single,Female,20000.00,2,Partial High School,Clerical,Yes,2,1-2 Miles,North America,49,Elder,No
+22221,Married,Male,60000.00,2,High School,Professional,No,2,1-2 Miles,North America,48,Elder,Yes
+28228,Single,Female,80000.00,2,Partial High School,Skilled Manual,No,2,1-2 Miles,North America,50,Elder,No
+18363,Married,Male,40000.00,0,High School,Skilled Manual,Yes,2,5-10 Miles,North America,28,Youth,Yes
+23256,Single,Male,30000.00,1,High School,Clerical,No,1,5-10 Miles,North America,52,Elder,No
+12768,Married,Male,30000.00,1,High School,Clerical,Yes,1,2-5 Miles,North America,52,Elder,Yes
+20361,Married,Male,50000.00,2,Graduate Degree,Management,Yes,2,5-10 Miles,North America,69,Old Age,No
+21306,Single,Male,60000.00,2,High School,Professional,Yes,2,5-10 Miles,North America,51,Elder,No
+13382,Married,Male,70000.00,5,Partial College,Professional,Yes,2,1-2 Miles,North America,57,Elder,Yes
+20310,Single,Male,60000.00,0,Partial College,Skilled Manual,Yes,1,5-10 Miles,North America,27,Youth,Yes
+22971,Single,Female,30000.00,0,High School,Skilled Manual,No,2,0-1 Miles,North America,25,Youth,Yes
+15287,Single,Female,50000.00,1,Graduate Degree,Skilled Manual,Yes,0,1-2 Miles,North America,33,Youth,Yes
+15532,Single,Male,60000.00,4,Bachelors,Professional,Yes,2,2-5 Miles,North America,43,Mid Youth,Yes
+11255,Married,Male,70000.00,4,Graduate Degree,Management,Yes,2,5-10 Miles,North America,73,Old Age,No
+28090,Married,Male,40000.00,0,Partial College,Skilled Manual,Yes,1,5-10 Miles,North America,27,Youth,No
+15255,Married,Male,40000.00,0,High School,Skilled Manual,Yes,2,5-10 Miles,North America,28,Youth,Yes
+13154,Married,Male,40000.00,0,High School,Skilled Manual,No,2,0-1 Miles,North America,27,Youth,Yes
+26778,Single,Female,40000.00,0,High School,Skilled Manual,Yes,2,5-10 Miles,North America,31,Youth,No
+23248,Married,Female,10000.00,2,High School,Manual,Yes,2,1-2 Miles,North America,53,Elder,No
+21417,Single,Female,60000.00,0,Partial College,Professional,No,2,1-2 Miles,North America,32,Youth,Yes
+17668,Single,Male,30000.00,2,High School,Skilled Manual,Yes,2,1-2 Miles,North America,50,Elder,Yes
+27994,Married,Female,40000.00,4,High School,Professional,Yes,2,5-10 Miles,North America,69,Old Age,No
+20376,Single,Female,70000.00,3,Graduate Degree,Management,Yes,2,5-10 Miles,North America,52,Elder,Yes
+25954,Married,Male,60000.00,0,Partial College,Skilled Manual,No,2,1-2 Miles,North America,31,Youth,No
+15749,Single,Female,70000.00,4,Bachelors,Management,Yes,2,10+ Miles,North America,61,Old Age,No
+25899,Married,Female,70000.00,2,High School,Professional,Yes,2,10+ Miles,North America,53,Elder,No
+13351,Single,Female,70000.00,4,Bachelors,Management,Yes,2,1-2 Miles,North America,62,Old Age,Yes
+23333,Married,Male,40000.00,0,Partial College,Skilled Manual,No,2,1-2 Miles,North America,30,Youth,No
+21660,Married,Female,60000.00,3,Graduate Degree,Professional,Yes,0,2-5 Miles,North America,43,Mid Youth,Yes
+17012,Married,Female,60000.00,3,Graduate Degree,Professional,Yes,0,2-5 Miles,North America,42,Mid Youth,Yes
+24514,Married,Male,40000.00,0,Partial College,Skilled Manual,Yes,1,5-10 Miles,North America,30,Youth,No
+27505,Single,Female,40000.00,0,High School,Skilled Manual,Yes,2,5-10 Miles,North America,30,Youth,No
+29243,Single,Male,110000.00,1,Bachelors,Management,Yes,1,5-10 Miles,North America,43,Mid Youth,No
+26582,Married,Male,60000.00,0,Partial College,Skilled Manual,Yes,2,5-10 Miles,North America,33,Youth,Yes
+14271,Married,Male,30000.00,0,High School,Skilled Manual,Yes,2,5-10 Miles,North America,32,Youth,No
+23041,Single,Female,70000.00,4,High School,Professional,Yes,0,5-10 Miles,North America,50,Elder,Yes
+29048,Single,Male,110000.00,2,Bachelors,Management,No,3,0-1 Miles,North America,37,Mid Youth,Yes
+24433,Married,Male,70000.00,3,High School,Professional,No,1,1-2 Miles,North America,52,Elder,Yes
+15501,Married,Male,70000.00,4,Graduate Degree,Professional,Yes,0,2-5 Miles,North America,36,Mid Youth,Yes
+13911,Single,Female,80000.00,3,Bachelors,Skilled Manual,Yes,2,2-5 Miles,North America,41,Mid Youth,Yes
+20421,Single,Female,40000.00,0,Partial High School,Clerical,Yes,2,5-10 Miles,North America,26,Youth,No
+16009,Single,Male,170000.00,1,Graduate Degree,Management,No,4,0-1 Miles,North America,66,Old Age,No
+18411,Married,Male,60000.00,2,High School,Professional,No,2,5-10 Miles,North America,51,Elder,No
+19163,Married,Female,70000.00,4,Bachelors,Professional,Yes,2,0-1 Miles,North America,43,Mid Youth,Yes
+18572,Married,Female,60000.00,0,Graduate Degree,Professional,Yes,0,0-1 Miles,North America,39,Mid Youth,No
+27540,Single,Female,70000.00,0,Bachelors,Professional,No,1,0-1 Miles,North America,37,Mid Youth,Yes
+19889,Single,Female,70000.00,2,Partial High School,Skilled Manual,No,2,2-5 Miles,North America,54,Elder,Yes
+12922,Single,Female,60000.00,3,Bachelors,Skilled Manual,Yes,0,2-5 Miles,North America,40,Mid Youth,Yes
+18891,Married,Female,40000.00,0,Partial College,Skilled Manual,Yes,2,5-10 Miles,North America,28,Youth,No
+16773,Married,Male,60000.00,1,Graduate Degree,Skilled Manual,Yes,0,0-1 Miles,North America,33,Youth,No
+19143,Single,Female,80000.00,3,Bachelors,Skilled Manual,Yes,2,2-5 Miles,North America,41,Mid Youth,Yes
+23882,Single,Female,80000.00,3,Graduate Degree,Professional,Yes,0,0-1 Miles,North America,37,Mid Youth,Yes
+11233,Married,Male,70000.00,4,Partial College,Professional,Yes,2,10+ Miles,North America,53,Elder,No
+12056,Married,Male,120000.00,2,Graduate Degree,Management,Yes,3,5-10 Miles,North America,64,Old Age,No
+15555,Married,Female,60000.00,1,Partial College,Skilled Manual,Yes,1,2-5 Miles,North America,45,Mid Youth,Yes
+18423,Single,Male,80000.00,2,Partial High School,Skilled Manual,No,2,1-2 Miles,North America,52,Elder,No
+22743,Married,Female,40000.00,5,High School,Professional,Yes,2,10+ Miles,North America,60,Elder,No
+25343,Single,Female,20000.00,3,Partial High School,Clerical,Yes,2,1-2 Miles,North America,50,Elder,No
+13390,Married,Female,70000.00,4,Partial College,Professional,No,1,1-2 Miles,North America,56,Elder,No
+17482,Single,Female,40000.00,0,Partial High School,Clerical,Yes,2,5-10 Miles,North America,29,Youth,No
+13176,Single,Male,130000.00,0,Graduate Degree,Management,No,2,0-1 Miles,North America,38,Mid Youth,Yes
+20504,Married,Female,40000.00,5,High School,Professional,No,2,2-5 Miles,North America,60,Elder,No
+12205,Single,Female,130000.00,2,Bachelors,Management,No,4,0-1 Miles,North America,67,Old Age,No
+16751,Married,Male,60000.00,0,Partial College,Skilled Manual,Yes,1,5-10 Miles,North America,32,Youth,Yes
+21613,Single,Male,50000.00,2,Bachelors,Skilled Manual,No,1,0-1 Miles,North America,39,Mid Youth,Yes
+24801,Single,Male,60000.00,1,Graduate Degree,Professional,Yes,0,2-5 Miles,North America,35,Youth,Yes
+17519,Married,Female,60000.00,0,Partial College,Professional,Yes,2,5-10 Miles,North America,32,Youth,No
+18347,Single,Female,30000.00,0,Partial College,Skilled Manual,No,1,1-2 Miles,North America,31,Youth,No
+29052,Single,Male,40000.00,0,Partial College,Skilled Manual,Yes,1,5-10 Miles,North America,27,Youth,No
+11745,Married,Female,60000.00,1,Bachelors,Professional,Yes,1,0-1 Miles,North America,47,Elder,Yes
+19147,Married,Male,40000.00,0,Bachelors,Professional,No,1,0-1 Miles,North America,42,Mid Youth,No
+19217,Married,Male,30000.00,2,High School,Skilled Manual,Yes,2,1-2 Miles,North America,49,Elder,No
+15839,Single,Male,30000.00,0,Partial College,Skilled Manual,Yes,1,5-10 Miles,North America,32,Youth,No
+13714,Married,Female,20000.00,2,High School,Manual,No,2,1-2 Miles,North America,53,Elder,Yes
+22330,Married,Male,50000.00,0,Graduate Degree,Skilled Manual,Yes,0,1-2 Miles,North America,32,Youth,Yes
+18783,Single,Male,80000.00,0,Bachelors,Management,No,1,0-1 Miles,North America,38,Mid Youth,Yes
+25041,Single,Male,40000.00,0,High School,Skilled Manual,Yes,2,5-10 Miles,North America,31,Youth,No
+22046,Single,Female,80000.00,0,Bachelors,Management,No,1,0-1 Miles,North America,38,Mid Youth,Yes
+28052,Married,Male,60000.00,2,High School,Professional,Yes,2,10+ Miles,North America,55,Elder,No
+26693,Married,Male,70000.00,3,Partial College,Professional,Yes,1,5-10 Miles,North America,49,Elder,No
+24955,Single,Male,30000.00,5,Partial High School,Skilled Manual,Yes,3,10+ Miles,North America,60,Elder,Yes
+26065,Single,Female,110000.00,3,Bachelors,Management,No,4,1-2 Miles,North America,42,Mid Youth,No
+13942,Married,Male,60000.00,1,Partial College,Skilled Manual,Yes,1,0-1 Miles,North America,46,Elder,No
+11219,Married,Male,60000.00,2,High School,Professional,Yes,2,10+ Miles,North America,55,Elder,No
+22118,Single,Female,70000.00,3,Graduate Degree,Management,Yes,2,5-10 Miles,North America,53,Elder,Yes
+23197,Married,Male,50000.00,3,Bachelors,Skilled Manual,Yes,2,2-5 Miles,North America,40,Mid Youth,No
+14883,Married,Female,30000.00,1,Bachelors,Skilled Manual,Yes,1,5-10 Miles,North America,53,Elder,Yes
+27279,Single,Female,70000.00,2,Bachelors,Skilled Manual,Yes,0,2-5 Miles,North America,38,Mid Youth,Yes
+18322,Single,Male,30000.00,0,Partial High School,Clerical,No,2,0-1 Miles,North America,26,Youth,No
+15879,Married,Male,70000.00,5,Bachelors,Management,Yes,2,2-5 Miles,North America,61,Old Age,No
+28278,Married,Male,50000.00,2,Graduate Degree,Management,Yes,2,5-10 Miles,North America,71,Old Age,No
+24416,Married,Male,90000.00,4,High School,Professional,Yes,2,1-2 Miles,North America,45,Mid Youth,No
+28066,Married,Male,80000.00,2,Graduate Degree,Professional,Yes,0,0-1 Miles,North America,37,Mid Youth,Yes
+11275,Married,Female,80000.00,4,Graduate Degree,Management,Yes,2,0-1 Miles,North America,72,Old Age,Yes
+14872,Married,Male,30000.00,0,Graduate Degree,Skilled Manual,Yes,0,0-1 Miles,North America,32,Youth,No
+16151,Married,Female,60000.00,1,Bachelors,Professional,Yes,1,2-5 Miles,North America,48,Elder,Yes
+19731,Married,Male,80000.00,4,Graduate Degree,Management,Yes,2,5-10 Miles,North America,68,Old Age,No
+23801,Married,Female,20000.00,2,Partial High School,Clerical,Yes,2,0-1 Miles,North America,49,Elder,No
+11807,Married,Male,70000.00,3,Graduate Degree,Professional,Yes,0,2-5 Miles,North America,34,Youth,No
+11622,Married,Male,50000.00,0,Graduate Degree,Skilled Manual,Yes,0,0-1 Miles,North America,32,Youth,No
+26597,Single,Female,60000.00,4,Bachelors,Skilled Manual,No,2,0-1 Miles,North America,42,Mid Youth,No
+27074,Married,Female,70000.00,1,Graduate Degree,Skilled Manual,Yes,0,0-1 Miles,North America,35,Youth,Yes
+19228,Married,Female,40000.00,2,Partial College,Clerical,Yes,1,0-1 Miles,North America,48,Elder,No
+13415,Single,Male,100000.00,1,Graduate Degree,Management,Yes,3,2-5 Miles,North America,73,Old Age,Yes
+17000,Single,Female,70000.00,4,Bachelors,Skilled Manual,Yes,2,2-5 Miles,North America,43,Mid Youth,Yes
+14569,Married,Male,60000.00,1,Graduate Degree,Professional,Yes,0,0-1 Miles,North America,35,Youth,No
+13873,Married,Male,70000.00,3,Graduate Degree,Professional,Yes,0,0-1 Miles,North America,35,Youth,Yes
+20401,Married,Female,50000.00,4,Bachelors,Management,Yes,2,1-2 Miles,North America,64,Old Age,Yes
+21583,Married,Female,50000.00,1,Bachelors,Skilled Manual,Yes,0,0-1 Miles,North America,34,Youth,Yes
+12029,Married,Male,30000.00,0,Partial High School,Clerical,No,2,0-1 Miles,North America,28,Youth,No
+18066,Single,Male,70000.00,5,Bachelors,Management,Yes,3,10+ Miles,North America,60,Elder,Yes
+28192,Married,Female,70000.00,5,Graduate Degree,Professional,Yes,3,10+ Miles,North America,46,Elder,No
+16122,Married,Male,40000.00,4,High School,Skilled Manual,Yes,2,0-1 Miles,North America,44,Mid Youth,Yes
+18607,Single,Female,60000.00,4,Bachelors,Skilled Manual,Yes,2,2-5 Miles,North America,42,Mid Youth,Yes
+28858,Single,Male,80000.00,3,Bachelors,Skilled Manual,Yes,0,2-5 Miles,North America,40,Mid Youth,No
+14432,Single,Male,90000.00,4,Graduate Degree,Management,Yes,1,5-10 Miles,North America,73,Old Age,No
+26305,Single,Female,60000.00,2,Bachelors,Skilled Manual,No,0,0-1 Miles,North America,36,Mid Youth,Yes
+22050,Single,Male,90000.00,4,Bachelors,Management,Yes,1,1-2 Miles,North America,38,Mid Youth,Yes
+25394,Married,Male,60000.00,1,Graduate Degree,Professional,Yes,0,2-5 Miles,North America,34,Youth,Yes
+19747,Married,Male,50000.00,4,Bachelors,Management,Yes,2,10+ Miles,North America,63,Old Age,No
+23195,Single,Male,50000.00,3,Bachelors,Skilled Manual,Yes,2,2-5 Miles,North America,41,Mid Youth,Yes
+21695,Married,Male,60000.00,0,Graduate Degree,Skilled Manual,Yes,0,1-2 Miles,North America,39,Mid Youth,Yes
+13934,Married,Male,40000.00,4,High School,Skilled Manual,Yes,2,2-5 Miles,North America,46,Elder,No
+13337,Married,Female,80000.00,5,Bachelors,Management,Yes,2,5-10 Miles,North America,64,Old Age,No
+27190,Married,Female,40000.00,3,Partial College,Clerical,Yes,1,1-2 Miles,North America,32,Youth,No
+28657,Single,Male,60000.00,2,Bachelors,Skilled Manual,Yes,0,2-5 Miles,North America,36,Mid Youth,Yes
+21713,Single,Male,80000.00,5,Graduate Degree,Skilled Manual,No,0,0-1 Miles,North America,47,Elder,No
+21752,Married,Male,60000.00,3,Graduate Degree,Management,Yes,2,10+ Miles,North America,64,Old Age,No
+27273,Single,Male,70000.00,3,Graduate Degree,Professional,No,0,0-1 Miles,North America,35,Youth,Yes
+22719,Single,Male,110000.00,3,Bachelors,Management,Yes,4,2-5 Miles,North America,40,Mid Youth,Yes
+22042,Married,Female,70000.00,0,Partial College,Skilled Manual,Yes,2,5-10 Miles,North America,34,Youth,Yes
+21451,Married,Female,40000.00,4,High School,Professional,Yes,2,10+ Miles,North America,61,Old Age,No
+20754,Married,Male,30000.00,2,High School,Skilled Manual,Yes,2,1-2 Miles,North America,51,Elder,No
+12153,Single,Female,70000.00,3,Partial College,Professional,Yes,1,5-10 Miles,North America,49,Elder,Yes
+16895,Married,Female,40000.00,3,Partial College,Professional,No,2,1-2 Miles,North America,54,Elder,Yes
+26728,Single,Male,70000.00,3,Graduate Degree,Management,No,2,1-2 Miles,North America,53,Elder,Yes
+11090,Single,Male,90000.00,2,Partial College,Professional,Yes,1,2-5 Miles,North America,48,Elder,Yes
+15862,Single,Female,50000.00,0,Graduate Degree,Skilled Manual,Yes,0,1-2 Miles,North America,33,Youth,Yes
+26495,Single,Female,40000.00,2,High School,Professional,Yes,2,10+ Miles,North America,57,Elder,No
+11823,Married,Female,70000.00,0,Graduate Degree,Professional,Yes,0,2-5 Miles,North America,39,Mid Youth,No
+23449,Married,Male,60000.00,2,High School,Professional,Yes,2,5-10 Miles,North America,48,Elder,No
+23459,Married,Male,60000.00,2,High School,Professional,Yes,2,5-10 Miles,North America,50,Elder,No
+19543,Married,Male,70000.00,5,Graduate Degree,Professional,No,3,10+ Miles,North America,47,Elder,No
+14914,Married,Female,40000.00,1,Partial College,Clerical,Yes,1,1-2 Miles,North America,49,Elder,Yes
+12033,Single,Female,40000.00,0,High School,Skilled Manual,No,2,0-1 Miles,North America,27,Youth,Yes
+11941,Single,Male,60000.00,0,Partial College,Skilled Manual,Yes,0,5-10 Miles,North America,29,Youth,No
+14389,Married,Male,60000.00,2,Bachelors,Management,Yes,0,2-5 Miles,North America,59,Elder,No
+18050,Married,Female,60000.00,1,Partial College,Skilled Manual,Yes,1,0-1 Miles,North America,45,Mid Youth,Yes
+19856,Married,Female,60000.00,4,Bachelors,Management,Yes,2,2-5 Miles,North America,60,Elder,No
+11663,Married,Male,70000.00,4,Graduate Degree,Professional,Yes,0,0-1 Miles,North America,36,Mid Youth,Yes
+27740,Married,Female,40000.00,0,High School,Skilled Manual,Yes,2,5-10 Miles,North America,27,Youth,No
+23455,Single,Male,80000.00,2,Partial High School,Skilled Manual,No,2,1-2 Miles,North America,50,Elder,No
+15292,Single,Female,60000.00,1,Graduate Degree,Skilled Manual,Yes,0,1-2 Miles,North America,35,Youth,No
+21587,Married,Female,60000.00,1,Graduate Degree,Skilled Manual,Yes,0,2-5 Miles,North America,34,Youth,Yes
+23513,Married,Female,40000.00,3,Partial College,Professional,Yes,2,5-10 Miles,North America,54,Elder,No
+24322,Married,Female,60000.00,4,Bachelors,Skilled Manual,No,2,0-1 Miles,North America,42,Mid Youth,No
+26298,Married,Female,50000.00,1,Bachelors,Skilled Manual,Yes,0,2-5 Miles,North America,34,Youth,Yes
+25419,Single,Male,50000.00,2,Bachelors,Skilled Manual,No,1,0-1 Miles,North America,38,Mid Youth,Yes
+13343,Married,Female,90000.00,5,Bachelors,Management,Yes,2,1-2 Miles,North America,63,Old Age,Yes
+11303,Single,Female,90000.00,4,High School,Professional,No,3,1-2 Miles,North America,45,Mid Youth,Yes
+21693,Single,Female,60000.00,0,Graduate Degree,Skilled Manual,No,0,0-1 Miles,North America,40,Mid Youth,No
+28056,Married,Male,70000.00,2,Partial High School,Skilled Manual,Yes,2,10+ Miles,North America,53,Elder,No
+11788,Single,Female,70000.00,1,Graduate Degree,Professional,Yes,0,2-5 Miles,North America,34,Youth,No
+22296,Married,Male,70000.00,0,Bachelors,Professional,No,1,0-1 Miles,North America,38,Mid Youth,No
+15319,Married,Female,70000.00,4,Bachelors,Management,No,1,1-2 Miles,North America,59,Elder,No
+17654,Single,Female,40000.00,3,Partial College,Clerical,Yes,1,1-2 Miles,North America,30,Youth,Yes
+14662,Married,Male,60000.00,1,Bachelors,Professional,Yes,1,0-1 Miles,North America,48,Elder,Yes
+17541,Married,Female,40000.00,4,High School,Skilled Manual,Yes,2,2-5 Miles,North America,43,Mid Youth,No
+13886,Married,Female,70000.00,4,Graduate Degree,Professional,Yes,0,2-5 Miles,North America,35,Youth,Yes
+13073,Married,Female,60000.00,0,Partial College,Professional,Yes,2,5-10 Miles,North America,30,Youth,No
+21940,Married,Male,90000.00,5,Graduate Degree,Professional,Yes,0,0-1 Miles,North America,47,Elder,Yes
+20196,Married,Male,60000.00,1,Partial College,Skilled Manual,Yes,1,2-5 Miles,North America,45,Mid Youth,Yes
+23491,Single,Male,100000.00,0,Partial College,Professional,No,4,1-2 Miles,North America,45,Mid Youth,No
+16651,Married,Female,120000.00,2,Bachelors,Management,Yes,3,5-10 Miles,North America,62,Old Age,No
+16813,Married,Male,60000.00,2,Partial College,Professional,Yes,2,10+ Miles,North America,55,Elder,No
+16007,Married,Female,90000.00,5,Bachelors,Management,Yes,2,1-2 Miles,North America,66,Old Age,Yes
+27434,Single,Male,70000.00,4,Partial College,Professional,Yes,1,10+ Miles,North America,56,Elder,No
+27756,Single,Female,50000.00,3,Bachelors,Skilled Manual,No,1,0-1 Miles,North America,40,Mid Youth,No
+23818,Married,Female,50000.00,0,Graduate Degree,Skilled Manual,Yes,0,1-2 Miles,North America,33,Youth,Yes
+19012,Married,Male,80000.00,3,Bachelors,Management,Yes,1,1-2 Miles,North America,56,Elder,No
+18329,Single,Male,30000.00,0,Partial High School,Clerical,No,2,5-10 Miles,North America,27,Youth,No
+29037,Married,Male,60000.00,0,Graduate Degree,Professional,No,0,0-1 Miles,North America,39,Mid Youth,No
+26576,Married,Female,60000.00,0,Partial College,Skilled Manual,Yes,2,5-10 Miles,North America,31,Youth,No
+12192,Single,Female,60000.00,2,Partial High School,Skilled Manual,No,2,1-2 Miles,North America,51,Elder,No
+14887,Married,Female,30000.00,1,High School,Clerical,Yes,1,5-10 Miles,North America,52,Elder,No
+11734,Married,Male,60000.00,1,Partial College,Skilled Manual,No,1,0-1 Miles,North America,47,Elder,No
+17462,Married,Male,70000.00,3,Graduate Degree,Management,Yes,2,5-10 Miles,North America,53,Elder,Yes
+20659,Married,Male,70000.00,3,Graduate Degree,Professional,Yes,0,0-1 Miles,North America,35,Youth,Yes
+28004,Married,Female,60000.00,3,Bachelors,Management,Yes,2,10+ Miles,North America,66,Old Age,No
+19741,Single,Female,80000.00,4,Graduate Degree,Management,Yes,2,5-10 Miles,North America,65,Old Age,No
+17450,Married,Male,80000.00,5,Partial College,Professional,Yes,3,5-10 Miles,North America,45,Mid Youth,No
+17337,Single,Male,40000.00,0,High School,Skilled Manual,Yes,1,5-10 Miles,North America,31,Youth,No
+18594,Single,Female,80000.00,3,Bachelors,Skilled Manual,Yes,3,10+ Miles,North America,40,Mid Youth,Yes
+15982,Married,Male,110000.00,5,Partial College,Professional,Yes,4,2-5 Miles,North America,46,Elder,No
+28625,Single,Male,40000.00,2,Partial College,Clerical,No,1,1-2 Miles,North America,47,Elder,Yes
+11269,Married,Male,130000.00,2,Graduate Degree,Management,Yes,2,0-1 Miles,North America,41,Mid Youth,No
+25148,Married,Male,60000.00,2,High School,Professional,No,2,1-2 Miles,North America,48,Elder,Yes
+13920,Single,Female,50000.00,4,Bachelors,Skilled Manual,Yes,2,0-1 Miles,North America,42,Mid Youth,No
+23704,Single,Male,40000.00,5,High School,Professional,Yes,4,10+ Miles,North America,60,Elder,Yes
+28972,Single,Female,60000.00,3,Graduate Degree,Management,Yes,2,10+ Miles,North America,66,Old Age,No
+22730,Married,Male,70000.00,5,Bachelors,Management,Yes,2,10+ Miles,North America,63,Old Age,No
+29134,Married,Male,60000.00,4,Bachelors,Skilled Manual,No,3,10+ Miles,North America,42,Mid Youth,No
+14332,Single,Female,30000.00,0,High School,Skilled Manual,No,2,5-10 Miles,North America,26,Youth,No
+19117,Single,Female,60000.00,1,Graduate Degree,Professional,Yes,0,2-5 Miles,North America,36,Mid Youth,Yes
+22864,Married,Male,90000.00,2,Partial College,Professional,No,0,5-10 Miles,North America,49,Elder,Yes
+11292,Single,Male,150000.00,1,Partial College,Professional,No,3,0-1 Miles,North America,44,Mid Youth,Yes
+13466,Married,Male,80000.00,5,Partial College,Professional,Yes,3,1-2 Miles,North America,46,Elder,No
+23731,Married,Male,60000.00,2,High School,Professional,Yes,2,2-5 Miles,North America,54,Elder,Yes
+28672,Single,Male,70000.00,4,Graduate Degree,Professional,Yes,0,2-5 Miles,North America,35,Youth,Yes
+11809,Married,Male,60000.00,2,Bachelors,Skilled Manual,Yes,0,0-1 Miles,North America,38,Mid Youth,Yes
+19664,Single,Male,100000.00,3,Bachelors,Management,No,3,1-2 Miles,North America,38,Mid Youth,No
+12121,Single,Male,60000.00,3,High School,Professional,Yes,2,10+ Miles,North America,53,Elder,Yes
